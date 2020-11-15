@@ -1,6 +1,6 @@
 # Konnakol
 
-Polyryhtme indien
+Polyrythme indien
 
 * 1 temps = TA
 * 2 temps = TA KA
