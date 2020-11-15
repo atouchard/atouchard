@@ -1,38 +1,38 @@
 # Les Cadences
 
-Les principales cadences 
+Les cadences les plus utilisées
 
 ## La Cadence Parfaite
 
 * V - I
-* Vm - Im
+* v - i
 
 ## La Cadence Plagale
 
 * IV - I
-* IVm - I
-* IVm - Im
+* iv - I
+* iv - i
 
 ## La Demi Cadence
 
 * I - V
-* IIm - V
+* ii - V
 * IV - V
 
 ## La Cadence Complète ou Italienne
 
 * IV - V - I
-* IIm - V - I (le IIm est la relative du IV)
+* ii - V - I (le ii est la relative du IV)
 
 ## La Candence Rompue
 
-* V - VIm
+* V - vi
 
 ## La Cadence du Christophe
 
-* I - I7 - IV - IVm
+* I - I7 - IV - iv
 
 ## L'Anatole
 
-* I - VIm - IIm - V
-* I - VIm - IV - V
+* I - vi - ii - V
+* I - vi - IV - V
