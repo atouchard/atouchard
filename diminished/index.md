@@ -1,7 +1,9 @@
-# Diminished chord
+# Les Accords Diminués
 
-some text to test
+## Accord Diminué
 
-![Diminished Chord](https://raw.githubusercontent.com/atouchard/music/master/assets/images/full-diminished1.png "Diminished chord")
+![Accord diminué](https://raw.githubusercontent.com/atouchard/music/master/assets/images/full-diminished1.png "Accord diminué")
 
-Some text
+## Accords Demi-Diminué (m7b5 ou Ø)
+
+![Accord demi-diminué](https://raw.githubusercontent.com/atouchard/music/master/assets/images/semi-diminished1.png "Accord demi-diminué")

@@ -22,7 +22,7 @@ Les principales cadences
 ## La Cadence Complète ou Italienne
 
 * IV - V - I
-* IIm - V -I (le IIm est la relative du IV)
+* IIm - V - I (le IIm est la relative du IV)
 
 ## La Candence Rompue
 
