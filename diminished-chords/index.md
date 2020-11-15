@@ -42,11 +42,13 @@ L'accord diminué est sur le 7ème degré en mineur (harmonic)
 L'accord demi-diminué et diminué peut remplacer le ii et le iii dans une suite d'accord
 
 ex:
+
 | I  |   ii  |  V | I |
 |----|-------|----|---|
 | C  | Dm7b5 | G7 | C |
 
 ex:
+
 |   I   |  ii |  iii  | VI | ii  | V  |   I   |
 |-------|-----|-------|----|-----|----|-------|
 | Cmaj7 | Dm7 | Em7b5 | A7 | Dm7 | G7 | Cmaj7 |
