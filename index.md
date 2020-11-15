@@ -1,2 +1,2 @@
 * [Les Cadences](./cadences)
-* [Diminished chord](./diminished)
+* [Les Accords Diminués](./diminished)
