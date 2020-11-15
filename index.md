@@ -4,6 +4,6 @@
 
 some text to test
 
-![diminished](./assets/images/tests.png "Diminished chord")
+![diminished](https://raw.githubusercontent.com/atouchard/music/master/assets/images/test.png "Diminished chord")
 
 Some text
