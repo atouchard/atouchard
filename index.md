@@ -3,4 +3,5 @@
 * [Les Accords Empruntés](./borrowed-chords)
 * [Les Accords Diminués](./diminished-chords)
 * [Les Accords Augmentés](./augmented-chords)
+* [Les Dominantes Secondaires](./secondary-dominant)
 * [Konnakol](./konnakol)
