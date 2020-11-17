@@ -1,4 +1,6 @@
+* [Le Cycle des Quintes](./cycle-of-fifth)
 * [Les Cadences](./cadences)
+* [Les Accords Empruntés](./borrowed-chords)
 * [Les Accords Diminués](./diminished-chords)
 * [Les Accords Augmentés](./augmented-chords)
 * [Konnakol](./konnakol)

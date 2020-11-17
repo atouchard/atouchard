@@ -9,9 +9,9 @@ Les 4 notes qui le constituent sont séparées par une tierce mineure, ce qui en
 
 ### Les différentes positions
 
-![Accord diminué](https://raw.githubusercontent.com/atouchard/music/master/assets/images/full-diminished1.png "Accord diminué")
-![Accord diminué](https://raw.githubusercontent.com/atouchard/music/master/assets/images/full-diminished2.png "Accord diminué")
-![Accord diminué](https://raw.githubusercontent.com/atouchard/music/master/assets/images/full-diminished3.png "Accord diminué")
+![Accord diminué position 1](https://raw.githubusercontent.com/atouchard/music/master/assets/images/full-diminished1.png "Accord diminué position 1")
+![Accord diminué position 2](https://raw.githubusercontent.com/atouchard/music/master/assets/images/full-diminished2.png "Accord diminué position 2")
+![Accord diminué position 3](https://raw.githubusercontent.com/atouchard/music/master/assets/images/full-diminished3.png "Accord diminué position 3")
 
 ## Accord Demi-Diminué (m7b5 ou Ø)
 
@@ -54,7 +54,8 @@ ex:
 | Cmaj7 | Dm7 | Em7b5 | A7 | Dm7 | G7 | Cmaj7 |
     
 
-Sur un ii - V - I, il peut l'etendre:
+On peut aussi étendre un ii - V - I:
 
-ex: ii  - V  -  iii  -   VI    - ii  - V  -   I
-    Dm7 - G7 - Em7b5 -  Aaug7  - Dm7 - G7 - Cmaj7
+|  ii |  V |  iii  |   VI  | ii  | V  |   I   |
+|-----|----|-------|-------|-----|----|-------|
+| Dm7 | G7 | Em7b5 | Aaug7 | Dm7 | G7 | Cmaj7 |
