@@ -1,19 +1,26 @@
 # Les Accords Empruntés
 
-Un accord d'emprunt est juste une simple substitution d'un accord n'appartenant pas à la tonalité. On parle de modulation si au moins 2 accords d'une nouvelle tonalité existe.
+Un accord d'emprunt est juste une simple substitution par un accord n'appartenant pas à la tonalité. On parle de modulation si au moins 2 accords d'une nouvelle tonalité existe.
 
-Les accords de la gamme mineure sont souvent empruntés.
-Souvent sur le IV, par exemple, pour un I - IV - I:
+Prenons l'exemple d'une gamme majeure de C, nous pouvons empruntés les accords de sa gamme mineure Cm.
+
+
+Gamme Majeure | C  | Dm | Em | F  | G  | Am | B° |
+--------------|----|----|----|----|----|----|----|
+Gamme Mineure | Cm | D° | Eb | Fm | Gm | Ab | Bb |
+
+
+Sur le IV, par exemple, pour un I - IV - I: 
 C - F - Fm - C ou C - Fm - C
 
-Souvent sur le vi,
+Sur le vi: 
 C - Ab
 
-Souvent sur le iii
+Sur le iii: 
 C - Eb
 
-Sur le ii
+Sur le ii: 
 C - D°
 
-Sur le vii par une 7ème de dominante
+Sur le vii par une 7ème de dominante: 
 C - Bb7
