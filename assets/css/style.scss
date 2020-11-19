@@ -1,7 +1,4 @@
----
----
-
-@import "";
+@import "{{ site.theme }}";
 
 body {
     background: #eef2f7;
