@@ -7,7 +7,7 @@ categories: theorie
 
 # La Gamme Mineure Pentatonique
 
-[![](https://raw.githubusercontent.com/atouchard/music/master/assets/images/dsc_0017.jpg){:height="500px"}](https://marjoloponen.wordpress.com/2010/03/30/onko-varilla-valia/dsc_0017/){:target="_blank"}
+[![](https://raw.githubusercontent.com/atouchard/music/master/assets/images/dsc_0017.jpg){: .img-25}](https://marjoloponen.wordpress.com/2010/03/30/onko-varilla-valia/dsc_0017/){:target="_blank"}
 
 <div class="vextab-auto">
     tabstave notation=true
