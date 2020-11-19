@@ -1,8 +1,7 @@
 # La Gamme Mineure Pentatonique
 
-![](https://raw.githubusercontent.com/atouchard/music/master/assets/images/dsc_0017.jpg)
+[![](https://raw.githubusercontent.com/atouchard/music/master/assets/images/dsc_0017.jpg){:height="500px"}](https://marjoloponen.wordpress.com/2010/03/30/onko-varilla-valia/dsc_0017/){:target="_blank"}
 
-[source](https://marjoloponen.wordpress.com/2010/03/30/onko-varilla-valia/dsc_0017/)
 
 ```
 E|--------------------------------------------3----6----6----3---------------------------------------------------
