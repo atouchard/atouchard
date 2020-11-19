@@ -18,7 +18,6 @@ collections:
 
 # Pages to include in header navigation
 nav_pages:
-  - index.md
   - theorie.md
   - ressources.md
 
