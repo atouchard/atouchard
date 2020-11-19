@@ -4,6 +4,6 @@ layout: default
 
 <ul>
 {% for theorie in site.theorie %}
-  <li><a href="{{ theorie.url }}">{{ theorie.title }}</a></li>
+  <li><a href="{{site.baseurl}}{{ theorie.url }}">{{ theorie.title }}</a></li>
 {% endfor %}
 </ul>
