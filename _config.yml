@@ -20,5 +20,6 @@ collections:
 nav_pages:
   - index.md
   - theorie.md
+  - ressources.md
 
 theme: jekyll-theme-primer
