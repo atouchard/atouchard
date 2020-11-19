@@ -1,3 +1,7 @@
 # Cycle des Quintes
 
 ![Cycle des quintes](https://raw.githubusercontent.com/atouchard/music/master/assets/images/cycle-of-fifth.png "Cycle des quintes")
+
+![Coltrane Circle](https://raw.githubusercontent.com/atouchard/music/master/assets/images/coltranewholeimpositionstar.jpg "Coltrane Circle")
+
+![Coltrane Circle](https://raw.githubusercontent.com/atouchard/music/master/assets/images/coltrane-circle.jpg "Coltrane Circle")

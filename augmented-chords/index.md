@@ -13,12 +13,28 @@ C - E - G# - C
 Tension vers résolution que ce soit en mineur ou majeur
 Passage du I au IV ou du I vers I6 ou V+ vers I
 
-Elle peut être joué sur le V
+Il peut être joué sur le V:
+
 Am / E+
 
-on peut ajouter une 9ème pour encore augmenter la tension
+On peut ajouter une 9ème pour encore augmenter la tension
+
 Am / E+(add9)
 
-On peut lui rajouter une b7 noté: aug7 ou +7 ou 7#5
+On peut lui rajouter une b7 (noté: aug7 ou +7 ou 7#5)
 
-On peut lui rajouter une 7ème majeure noté: augM7 ou +M7 ou M7#5 jouer souvent sur la tonique
+A / E+aug7
+
+![Accord augmenté](https://raw.githubusercontent.com/atouchard/music/master/assets/images/augmented1-aug7.png "Accord augmenté")
+
+On peut lui rajouter une 7ème majeure (noté: augM7 ou +M7 ou M7#5), jouer également sur la tonique
+
+A / E+augM7
+
+![Accord augmenté](https://raw.githubusercontent.com/atouchard/music/master/assets/images/augmented1-augM7.png "Accord augmenté")
+
+Pour un voicing par exemple de I à vi
+
+A (+1 ton sur la quinte) A+ (+1 ton sur la quinte) F#m
+
+de I à IV ou de I à ii
