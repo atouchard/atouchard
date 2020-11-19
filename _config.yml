@@ -7,6 +7,8 @@ sass:
   style: :compressed
 
 lang: fr-FR
+encoding: UTF-8
+branch: master
 
 collections_dir: collections
 
@@ -15,10 +17,20 @@ collections:
       output: true
       permalink: /theorie/:path/
 
-
-# Pages to include in header navigation
 nav_pages:
   - theorie.md
   - ressources.md
 
-theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-feed
+
+exclude:
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - README.md
+
+theme: null
