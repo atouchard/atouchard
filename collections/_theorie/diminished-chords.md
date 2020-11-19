@@ -1,3 +1,10 @@
+---
+layout: default
+title: Les Accords Diminués
+date: 2020-11-19 10:30
+categories: theorie
+---
+
 # Les Accords Diminués
 
 ## Accord Diminué (dim7 ou °7)

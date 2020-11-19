@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<ul>
+{% for theorie in site.theorie %}
+  <li><a href="{{ theorie.url }}">{{ theorie.title }}</a></li>
+{% endfor %}
+</ul>

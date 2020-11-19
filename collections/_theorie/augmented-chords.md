@@ -1,3 +1,10 @@
+---
+layout: default
+title: Les Accords Augmentés (aug ou +)
+date: 2020-11-19 10:30
+categories: theorie
+---
+
 # Les Accords Augmentés (aug ou +)
 
 Il ne contient que des tierces majeures, ce qui lui donne une symétrie

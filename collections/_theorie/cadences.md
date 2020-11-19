@@ -1,3 +1,10 @@
+---
+layout: default
+title: Les Cadences
+date: 2020-11-19 10:30
+categories: theorie
+---
+
 # Les Cadences
 
 Les cadences les plus utilisées

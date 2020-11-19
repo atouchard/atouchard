@@ -6,4 +6,19 @@ markdown: kramdown
 sass:
   style: :compressed
 
+lang: fr-FR
+
+collections_dir: collections
+
+collections:
+  theorie:
+      output: true
+      permalink: /theorie/:path/
+
+
+# Pages to include in header navigation
+nav_pages:
+  - index.md
+  - theorie.md
+
 theme: jekyll-theme-primer
