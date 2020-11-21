@@ -5,13 +5,13 @@ layout: default
 <h2>Theorie</h2>
 <ul>
 {% for theorie in site.theorie %}
-  <li><a href="{{ theorie.url }}">{{ theorie.title }}</a></li>
+  <li><a href="{{site.baseurl}}{{ theorie.url }}">{{ theorie.title }}</a></li>
 {% endfor %}
 </ul>
 
 <h2>Ryhtme</h2>
 <ul>
   {% for rythme in site.rythme %}
-    <li><a href="{{ rythme.url }}">{{ rythme.title }}</a></li>
+    <li><a href="{{site.baseurl}}{{ rythme.url }}">{{ rythme.title }}</a></li>
   {% endfor %}
 </ul>
