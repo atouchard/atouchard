@@ -7,6 +7,7 @@
 img {
     display: block;;
     margin: 50px auto;
+    width: 100%;
     box-shadow:
     0 2.8px 2.2px rgba(0, 0, 0, 0.034),
     0 6.7px 5.3px rgba(0, 0, 0, 0.048),
@@ -31,4 +32,16 @@ img {
 
 .img-25 {
     width: 25%;
+}
+
+.img-src {
+    display: block;
+    text-align: center;
+    font-size: 0.7em;
+    font-style: italic;
+    color: #333;
+}
+
+.nav-link .svg-inline--fa {
+    width: 15px;
 }

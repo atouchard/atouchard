@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<button type="button" id="export-pdf" class="btn btn-outline-dark">Export</button>
+{{ content }}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.0/html2pdf.bundle.min.js" integrity="sha512-YLG3N5dufxTTEyEgDIKb3IMDTz/NsWiGH6+6OvzrJBu/XZNRiZb9UxuNoMn8RdTtuKgpjtzTeWm/ITkZkj2i3Q==" crossorigin="anonymous"></script>
+<script>
+    var element = document.getElementById('content');
+    var opt = {
+      margin:  1,
+      filename: document.title + '.pdf',
+      image: { type: 'png', quality: 0.98 },
+      html2canvas: { scale: 2 },
+      jsPDF: { unit: 'in', format: 'letter', orientation: 'portrait' }
+    };
+    document.getElementById("export-pdf").onclick = function () {
+      html2pdf().from(element).set(opt).toPdf().save();
+    }
+</script>

@@ -16,6 +16,19 @@ collections:
   theorie:
       output: true
       permalink: /theorie/:path/
+  rythme:
+      output: true
+      permalink: /rythme/:path/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+mermaid: true
 
 nav_pages:
   - theorie.md

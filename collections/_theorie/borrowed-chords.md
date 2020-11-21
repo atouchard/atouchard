@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: page
 title: Les Accords Empruntés
 date: 2020-11-19 10:30
 categories: theorie
+tags: intermediaire accords theorie
 ---
 
 # Les Accords Empruntés
@@ -17,17 +18,17 @@ Gamme Majeure | C  | Dm | Em | F  | G  | Am | B° |
 Gamme Mineure | Cm | D° | Eb | Fm | Gm | Ab | Bb |
 
 
-Sur le IV, par exemple, pour un I - IV - I: 
+Sur le IV, par exemple, pour un I - IV - I:
 C - F - Fm - C ou C - Fm - C
 
-Sur le vi: 
+Sur le vi:
 C - Ab
 
-Sur le iii: 
+Sur le iii:
 C - Eb
 
-Sur le ii: 
+Sur le ii:
 C - D°
 
-Sur le vii par une 7ème de dominante: 
+Sur le vii par une 7ème de dominante:
 C - Bb7

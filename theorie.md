@@ -1,5 +1,5 @@
 ---
-layout: theorie
+layout: landing
 title: Theorie
 url: /theorie
 ---

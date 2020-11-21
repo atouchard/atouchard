@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: page
 title: Konnakol
 date: 2020-11-19 10:30
-categories: theorie
+categories: rythme
+tags: avancé ryhtme
 ---
 
 # Konnakol

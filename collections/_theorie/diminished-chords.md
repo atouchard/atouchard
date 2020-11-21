@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: page
 title: Les Accords Diminués
 date: 2020-11-19 10:30
 categories: theorie
+tags: intermediaire accords theorie
 ---
 
 # Les Accords Diminués
@@ -11,18 +12,18 @@ categories: theorie
 
 Les 4 notes qui le constituent sont séparées par une tierce mineure, ce qui engendre une symétrie.
 
-![Accord diminué](https://raw.githubusercontent.com/atouchard/music/master/assets/images/full-diminished1-tierce.png "Accord diminué")
-![Accord diminué](https://raw.githubusercontent.com/atouchard/music/master/assets/images/full-diminished1-symetrie.png "Accord diminué")
+![Accord diminué]({{ site.url }}/assets/images/full-diminished1-tierce.png "Accord diminué")
+![Accord diminué]({{ site.url }}/assets/images/full-diminished1-symetrie.png "Accord diminué")
 
 ### Les différentes positions
 
-![Accord diminué position 1](https://raw.githubusercontent.com/atouchard/music/master/assets/images/full-diminished1.png "Accord diminué position 1")
-![Accord diminué position 2](https://raw.githubusercontent.com/atouchard/music/master/assets/images/full-diminished2.png "Accord diminué position 2")
-![Accord diminué position 3](https://raw.githubusercontent.com/atouchard/music/master/assets/images/full-diminished3.png "Accord diminué position 3")
+![Accord diminué position 1]({{ site.url }}/assets/images/full-diminished1.png "Accord diminué position 1")
+![Accord diminué position 3]({{ site.url }}/assets/images/full-diminished3.png "Accord diminué position 3")
+![Accord diminué position 2]({{ site.url }}/assets/images/full-diminished2.png "Accord diminué position 2")
 
 ## Accord Demi-Diminué (m7b5 ou Ø)
 
-![Accord demi-diminué](https://raw.githubusercontent.com/atouchard/music/master/assets/images/semi-diminished1.png "Accord demi-diminué")
+![Accord demi-diminué]({{ site.url }}/assets/images/semi-diminished1.png "Accord demi-diminué")
 
 ## Utilisation
 
@@ -59,7 +60,6 @@ ex:
 |   I   |  ii |  iii  | VI | ii  | V  |   I   |
 |-------|-----|-------|----|-----|----|-------|
 | Cmaj7 | Dm7 | Em7b5 | A7 | Dm7 | G7 | Cmaj7 |
-    
 
 On peut aussi étendre un ii - V - I:
 

@@ -8,6 +8,7 @@
     <link rel="shortcut icon" href="{{ "/favicon.ico?v=" | append: site.github.build_revision | relative_url }}">
     <link href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}" rel="stylesheet" media="screen">
     <script src="{{ "/assets/js/div.prod.js?v=" | append: site.github.build_revision | relative_url }}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.8.3/mermaid.min.js" integrity="sha512-+TNmhaRJf3jyYHTpzEq/5I6b+aGyhzWb21mGdHAjxSGSYwxN9Grug3Y3B9qVxWfKKY8MscE/6mr9walWvFLFvQ==" crossorigin="anonymous"></script>
     {% feed_meta %}
     {% seo %}
   </head>
@@ -27,7 +28,18 @@
 
       {% include footer.html %}
     </div><!--/.container-->
-
+    <script>
+      var config = {
+          startOnLoad:true,
+          theme: 'forest',
+          flowchart:{
+              useMaxWidth:false,
+              htmlLabels:true
+          }
+      };
+      mermaid.initialize(config);
+      window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+    </script>
   </body>
 </html>
 <!-- Proudly Powered by GitHub Pages | Generated {{ site.time }} | Revision {{ site.github.build_revision }} -->

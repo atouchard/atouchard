@@ -1,13 +1,15 @@
 ---
-layout: default
+layout: page
 title: La Gamme Mineure Pentatonique
 date: 2020-11-19 10:30
 categories: theorie
+tags: intermediaire theorie gamme
 ---
 
 # La Gamme Mineure Pentatonique
 
-[![](https://raw.githubusercontent.com/atouchard/music/master/assets/images/dsc_0017.jpg){: .img-25}](https://marjoloponen.wordpress.com/2010/03/30/onko-varilla-valia/dsc_0017/){:target="_blank"}
+![]({{site.url}}/assets/images/dsc_0017.jpg){: .img-25}
+[https://marjoloponen.wordpress.com/2010/03/30/onko-varilla-valia/dsc_0017/](https://marjoloponen.wordpress.com/2010/03/30/onko-varilla-valia/dsc_0017/){:target="_blank" : .img-src}
 
 <div class="vextab-auto">
     tabstave notation=true
