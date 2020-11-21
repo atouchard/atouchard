@@ -10,9 +10,9 @@ tags: intermediaire accords theorie
 
 Il ne contient que des tierces majeures, ce qui lui donne une symétrie
 
-![Accord augmenté]({{ site.url }}/assets/images/augmented1-tierce.png "Accord augmenté")
-![Accord augmenté]({{ site.url }}/assets/images/augmented1-symetrie.png "Accord augmenté")
-![Accord augmenté]({{ site.url }}/assets/images/augmented2-symetrie.png "Accord augmenté")
+![Accord augmenté]({{ site.baseurl }}/assets/images/augmented1-tierce.png "Accord augmenté")
+![Accord augmenté]({{ site.baseurl }}/assets/images/augmented1-symetrie.png "Accord augmenté")
+![Accord augmenté]({{ site.baseurl }}/assets/images/augmented2-symetrie.png "Accord augmenté")
 
 C - E - G# - C
 
@@ -33,13 +33,13 @@ On peut lui rajouter une b7 (noté: aug7 ou +7 ou 7#5)
 
 A / E+aug7
 
-![Accord augmenté 7]({{ site.url }}/assets/images/augmented1-aug7.png "Accord augmenté 7")
+![Accord augmenté 7]({{ site.baseurl }}/assets/images/augmented1-aug7.png "Accord augmenté 7")
 
 On peut lui rajouter une 7ème majeure (noté: augM7 ou +M7 ou M7#5), jouer également sur la tonique
 
 A / E+augM7
 
-![Accord augmenté majeur 7]({{ site.url }}/assets/images/augmented1-augM7.png "Accord augmenté majeur 7")
+![Accord augmenté majeur 7]({{ site.baseurl }}/assets/images/augmented1-augM7.png "Accord augmenté majeur 7")
 
 Pour un voicing par exemple de I à vi
 

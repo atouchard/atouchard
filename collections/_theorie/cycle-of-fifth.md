@@ -8,11 +8,11 @@ tags: intermediaire theorie
 
 # Le Cycle des Quintes
 
-![Cycle des quintes]({{ site.url }}/assets/images/cycle-of-fifth.png "Cycle des quintes"){: .img-75}
+![Cycle des quintes]({{ site.baseurl }}/assets/images/cycle-of-fifth.png "Cycle des quintes"){: .img-75}
 
-![Coltrane Circle]({{ site.url }}/assets/images/coltranewholeimpositionstar.jpg "Coltrane Circle"){: .img-50}
+![Coltrane Circle]({{ site.baseurl }}/assets/images/coltranewholeimpositionstar.jpg "Coltrane Circle"){: .img-50}
 
-![Coltrane Circle]({{ site.url }}/assets/images/coltrane-circle.jpg "Coltrane Circle"){: .img-50}
+![Coltrane Circle]({{ site.baseurl }}/assets/images/coltrane-circle.jpg "Coltrane Circle"){: .img-50}
 
 * [John Coltrane Tone's Circle](https://roelhollander.eu/en/blog-saxophone/Coltrane-Tone-Circle/)
 * [Way of Seeing Coltrane](https://www.coreymwamba.co.uk/rambles/1388150764)

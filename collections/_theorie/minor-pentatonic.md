@@ -8,7 +8,7 @@ tags: intermediaire theorie gamme
 
 # La Gamme Mineure Pentatonique
 
-![]({{site.url}}/assets/images/dsc_0017.jpg){: .img-25}
+![]({{site.baseurl}}/assets/images/dsc_0017.jpg){: .img-25}
 [https://marjoloponen.wordpress.com/2010/03/30/onko-varilla-valia/dsc_0017/](https://marjoloponen.wordpress.com/2010/03/30/onko-varilla-valia/dsc_0017/){:target="_blank" : .img-src}
 
 <div class="vextab-auto">
