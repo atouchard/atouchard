@@ -8,3 +8,5 @@ tags: intermediaire theorie
 
 # Les Intervalles
 
+![]({{site.url}}/assets/images/87b325c8beb56091050100db000d1ee8.jpg){: .img-25}
+[https://fr.wikipedia.org/wiki/Roman_Haubenstock-Ramati](https://fr.wikipedia.org/wiki/Roman_Haubenstock-Ramati){: .img-src}
