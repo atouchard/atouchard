@@ -8,3 +8,4 @@
 * [Lotus Music](https://lotusmusic.com/lm_contents.html)
 * [The Shed](https://shedthemusic.com/)
 * [Pablo Bartolomeo](https://clasesdeguitarrapablobartolomeo.blogspot.com/)
+* [Eat.Sleep.Guitar](https://eatsleepguitar.com/)
