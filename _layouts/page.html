@@ -9,6 +9,25 @@ layout: default
     Télécharger le PDF
   </button>
 </div>
+<div class="page-date">
+  {% assign m = page.date | date: "%-m" %}
+  Dernière mise à jour: {{ page.date | date: "%-d" }}
+  {% case m %}
+    {% when '1' %}Janvier
+    {% when '2' %}Fevrier
+    {% when '3' %}Mars
+    {% when '4' %}Avril
+    {% when '5' %}Mai
+    {% when '6' %}Juin
+    {% when '7' %}Juillet
+    {% when '8' %}Aout
+    {% when '9' %}Septembre
+    {% when '10' %}Oktobre
+    {% when '11' %}Novembre
+    {% when '12' %}Decembre
+  {% endcase %}
+  {{ page.date | date: "%Y" }}
+</div>
 <div class="content-inner">{{ content }}</div>
 
 

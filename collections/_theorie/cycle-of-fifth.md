@@ -14,27 +14,3 @@ tags: intermediaire theorie
 
 * [John Coltrane Tone's Circle](https://roelhollander.eu/en/blog-saxophone/Coltrane-Tone-Circle/)
 * [Way of Seeing Coltrane](https://www.coreymwamba.co.uk/rambles/1388150764)
-
-<div class="mermaid">
-graph LR
-    iii --> vi
-    vi --> IV
-    vi--> ii
-    iii --> IV
-    iii --> ii
-    subgraph one
-    IV --> ii
-    end
-    subgraph one
-    IV --> V
-    IV --> vii
-    ii --> V
-    ii --> vii
-    V --> vii
-    vii --> V
-    end
-    vii --> vi
-    V --> vi
-    V --> I
-    vii --> I
-</div>

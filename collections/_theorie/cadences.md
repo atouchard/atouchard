@@ -42,3 +42,21 @@ Les cadences les plus utilisées
 
 * I - vi - ii - V
 * I - vi - IV - V
+
+## Carte
+
+<div class="mermaid">
+flowchart LR
+    ii:::someclass <--> iii
+    ii --> V
+    iii <--> IV
+    iii <--> vi
+    vi --> IV
+    vi --> ii
+    IV --> V
+    IV --> I{I}
+    IV --> ii
+    V --> I
+    V <--> vi
+    classDef someclass fill:#f96,width:45px, text-align:center;
+</div>

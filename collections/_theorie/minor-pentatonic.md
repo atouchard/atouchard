@@ -9,8 +9,12 @@ tags: intermediaire theorie gamme
 ![]({{site.baseurl}}/assets/images/dsc_0017.jpg){: .img-25}
 [https://marjoloponen.wordpress.com/2010/03/30/onko-varilla-valia/dsc_0017/](https://marjoloponen.wordpress.com/2010/03/30/onko-varilla-valia/dsc_0017/){:target="_blank" : .img-src}
 
-<div class="vextab-auto">
+<div class="vextab-auto" width=1000>
+    options space=12 font-size=12 font-face=times font-style=italic stave-distance=40
+    tab-stems=true tab-stem-direction=up
     tabstave notation=true
-    notes (8/2.7b9b7/3) (5b6/2.5b6/3) 7/4 |
-    notes (5/2.6/3.7/4)
+    key=G
+    text :h,.1,G
+    notes :8 3/6 6/6 3/5 5/5 3/4 5/4 3/3 5/3 |
+    notes :8 3/2 6/2 3/1 6/1 3/1 6/2 3/2 5/3 | 3/3 5/4 3/4 5/5 3/5 6/6 3/6
 </div>

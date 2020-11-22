@@ -81,3 +81,14 @@ img {
 .export-pdf svg {
     width: 1.25em;
 }
+
+.page-date {
+    font-style: italic;
+    font-size: 0.75em;
+}
+
+.cssClass > rect{
+    fill:#FF0000;
+    stroke:#FFFF00;
+    stroke-width:4px;
+}
