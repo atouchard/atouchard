@@ -9,3 +9,4 @@
 * [The Shed](https://shedthemusic.com/)
 * [Pablo Bartolomeo](https://clasesdeguitarrapablobartolomeo.blogspot.com/)
 * [Eat.Sleep.Guitar](https://eatsleepguitar.com/)
+* [Guitar School Musicsch.net](http://musicsch.net/)
