@@ -6,8 +6,6 @@ categories: theorie
 tags: intermediaire accords theorie
 ---
 
-# Les Accords Diminués
-
 ## Accord Diminué (dim7 ou °7)
 
 Les 4 notes qui le constituent sont séparées par une tierce mineure, ce qui engendre une symétrie.

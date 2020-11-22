@@ -6,8 +6,6 @@ categories: theorie
 tags: intermediaire accords theorie
 ---
 
-# Les Accords Augmentés (aug ou +)
-
 Il ne contient que des tierces majeures, ce qui lui donne une symétrie
 
 ![Accord augmenté]({{ site.baseurl }}/assets/images/augmented1-tierce.png "Accord augmenté")

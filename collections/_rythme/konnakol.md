@@ -6,8 +6,6 @@ categories: rythme
 tags: avancé ryhtme
 ---
 
-# Konnakol
-
 Polyrythme indien
 
 * 1 temps = TA

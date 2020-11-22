@@ -58,8 +58,24 @@ img {
     width: 1.25em;
 }
 
+.content-header {
+    overflow: hidden;
+}
+
+.content-header h1 {
+    float: left;
+}
+
 .export-pdf {
     float: right;
+}
+.content-inner {
+    clear: both;
+    margin-top: 2rem;
+}
+
+.export-pdf:hover {
+    text-decoration: none;
 }
 
 .export-pdf svg {

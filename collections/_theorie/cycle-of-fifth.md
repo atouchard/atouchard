@@ -6,8 +6,6 @@ categories: theorie
 tags: intermediaire theorie
 ---
 
-# Le Cycle des Quintes
-
 ![Cycle des quintes]({{ site.baseurl }}/assets/images/cycle-of-fifth.png "Cycle des quintes"){: .img-75}
 
 ![Coltrane Circle]({{ site.baseurl }}/assets/images/coltranewholeimpositionstar.jpg "Coltrane Circle"){: .img-50}

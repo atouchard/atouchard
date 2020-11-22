@@ -6,8 +6,6 @@ categories: theorie
 tags: intermediaire accords theorie
 ---
 
-# Les Cadences
-
 Les cadences les plus utilisées
 
 ## La Cadence Parfaite

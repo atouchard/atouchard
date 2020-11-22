@@ -6,8 +6,6 @@ categories: theorie
 tags: intermediaire accords theorie
 ---
 
-# Les Accords Empruntés
-
 Un accord d'emprunt est juste une simple substitution par un accord n'appartenant pas à la tonalité. On parle de modulation si au moins 2 accords d'une nouvelle tonalité existe.
 
 Prenons l'exemple d'une gamme majeure de C, nous pouvons empruntés les accords de sa gamme mineure Cm.
