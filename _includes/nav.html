@@ -1,6 +1,6 @@
-<div class="navbar navbar-expand-lg navbar-light bg-light border-left border-right border-bottom {% unless layout.hero %}border-top rounded-top{% endunless %} rounded-bottom mb-3">
+<div class="navbar-top navbar navbar-expand-lg navbar-light bg-light border-left border-right border-bottom {% unless layout.hero %}border-top rounded-top{% endunless %} rounded-bottom mb-3">
     <a class="navbar-brand font-weight-bold" href="{{ site.baseurl }}/">{{ site.title }}</a>
-  
+
     <ul class="navbar-nav mr-auto" role="navigation">
       {% for path in site.nav_pages %}
         {% assign nav_page=site.pages | where:"path",path | first %}
