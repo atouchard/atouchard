@@ -39,7 +39,7 @@ layout: default
       filename: document.title + '.pdf',
       image: { type: 'png', quality: 0.98 },
       html2canvas: { scale: 2 },
-      jsPDF: { unit: 'in', format: 'letter', orientation: 'portrait' }
+      jsPDF: { unit: 'mm', format: [element.offsetWidth, element.offsetHeight], orientation: 'portrait' }
     };
     document.getElementById("export-pdf").onclick = function () {
       html2pdf().from(element).set(opt).toPdf().save();

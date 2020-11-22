@@ -1,0 +1,89 @@
+---
+layout: page
+title: L'Ordre des Dièses et Bémols
+date: 2020-11-22 10:30
+categories: theorie
+tags: intermediaire theorie
+---
+
+## Ordre des dièses
+
+Un G prend 1 coup de stylo, un D est de 2 coups de stylo, un A 3, un E 4 et B à la forme du 5
+
+### La gamme de sol majeur
+
+D, E, F #, G, A, B, C, D
+
+Le dièse est en position 3.
+
+### La gamme de ré majeur
+
+D, E, F#, G, A, B, C#, D
+
+Les dièses sont en position 3 et 7.
+
+### La gamme de la majeure
+
+A, B, C #, D, E, F #, G #, A
+
+Les dièses sont en position 3, 6 et 7.
+
+### La gamme de mi majeur
+
+E, F #, G #, A, B, C #, D #, E
+
+Les dièses sont en position 2, 3, 6 et 7.
+
+### La gamme de si majeur
+
+B, C #, D #, E, F #, G #, A #, B
+
+Les dièses sont en position 2, 3, 5, 6 et 7.
+
+## Ordre des bémols
+
+La règle du +7:
+Si G a un #, Gb a 6 bemols
+Si D a deux #, Db a 5 bemols
+Si A a trois #, Ab a 4 bemols
+Si E a quatre #, Eb a 3 bemols
+Si B a cinq #, Bb a 2 bemols
+
+La F n'a pas de bemols
+
+### La gamme de fa majeur
+
+F, G, A, Bb, C, D, E, F
+
+Le bémol est en position 4.
+
+### La gamme de si bémol majeur
+
+Bb, C, D, Eb, F, G, A, Bb
+
+Les bémols sont en position 1 et 4.
+
+### La gamme de mi bémol majeur
+
+Eb, F, G, Ab, Bb, C, D, Eb
+
+Les bémols sont en position 1, 4 et 5.
+
+
+### La gamme de Ab Major
+
+Ab, Bb, C, Db, Eb, F, G, Ab
+
+Les bémols sont en position 1, 2, 4 et 5.
+
+### La gamme de Db Major
+
+Db, Eb, F, Gb, Ab, Bb, C, Db
+
+Les bémols sont en position 1, 2, 4, 5 et 6.
+
+### La gamme de Gb Major
+
+Gb, Ab, Bb, Cb, Db, Eb, F, Gb
+
+Les bémols sont en position 1, 2, 3, 4, 5 et 6.

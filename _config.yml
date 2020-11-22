@@ -19,6 +19,12 @@ collections:
   rythme:
       output: true
       permalink: /rythme/:path/
+  tips:
+      output: true
+      permalink: /tips/:path/
+  exercices:
+      output: true
+      permalink: /exercices/:path/
 
 defaults:
   -
@@ -32,6 +38,9 @@ mermaid: true
 
 nav_pages:
   - theorie.md
+  - rythme.md
+  - exercices.md
+  - tips.md
   - ressources.md
 
 plugins:

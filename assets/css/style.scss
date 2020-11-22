@@ -4,6 +4,31 @@
 @import "bootstrap.css";
 
 /* https://medium.com/devseed/using-jekyll-and-github-pages-for-our-site-a0267edf27fa */
+table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    border: solid 1px #f3f3f3;
+}
+
+thead tr {
+    background-color: #f3f3f3;
+}
+
+th, td {
+    padding: 12px 15px;
+    border: solid 1px #f3f3f3;
+    text-align: center;
+}
+tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
 img {
     display: block;;
     margin: 50px auto;
@@ -87,8 +112,6 @@ img {
     font-size: 0.75em;
 }
 
-.cssClass > rect{
-    fill:#FF0000;
-    stroke:#FFFF00;
-    stroke-width:4px;
+.vextab-auto {
+    text-align: center;
 }
