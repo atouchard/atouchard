@@ -30,20 +30,38 @@ layout: default
   {% endcase %}
   {{ page.date | date: "%Y" }}
 </div>
-<div class="content-inner">{{ content }}</div>
 
+<div class="content-inner">
+  {{ content }}
+</div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.8.3/mermaid.min.js" integrity="sha512-+TNmhaRJf3jyYHTpzEq/5I6b+aGyhzWb21mGdHAjxSGSYwxN9Grug3Y3B9qVxWfKKY8MscE/6mr9walWvFLFvQ==" crossorigin="anonymous"></script>
+<script>
+  var config = {
+      startOnLoad: true,
+      theme: 'neutral',
+      flowchart:{
+          useMaxWidth: false,
+          htmlLabels: true
+      }
+  };
+  mermaid.initialize(config);
+  window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+</script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.0/html2pdf.bundle.min.js" integrity="sha512-YLG3N5dufxTTEyEgDIKb3IMDTz/NsWiGH6+6OvzrJBu/XZNRiZb9UxuNoMn8RdTtuKgpjtzTeWm/ITkZkj2i3Q==" crossorigin="anonymous"></script>
 <script>
-    var element = document.getElementById('content');
-    var opt = {
-      margin:  1,
-      filename: document.title + '.pdf',
-      image: { type: 'png', quality: 0.98 },
-      html2canvas: { scale: 2 },
-      jsPDF: { unit: 'mm', format: [element.offsetWidth, element.offsetHeight], orientation: 'portrait' }
-    };
-    document.getElementById("export-pdf").onclick = function () {
-      html2pdf().from(element).set(opt).toPdf().save();
+    var pdfExport = document.getElementById("export-pdf")
+    if (pdfExport) {
+      var element = document.getElementById('content');
+      var opt = {
+        margin:  1,
+        filename: document.title + '.pdf',
+        image: { type: 'png', quality: 0.98 },
+        html2canvas: { scale: 2 },
+        jsPDF: { unit: 'mm', format: [element.offsetWidth, element.offsetHeight], orientation: 'portrait' }
+      };
+      pdfExport.onclick = function () {
+        html2pdf().from(element).set(opt).toPdf().save();
+      }
     }
 </script>
