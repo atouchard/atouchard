@@ -4,6 +4,7 @@ title: Les Accords Augmentés (aug ou +)
 date: 2020-11-19 10:30
 categories: theorie
 tags: intermediaire accords theorie
+order_number: 1
 ---
 
 Il ne contient que des tierces majeures, ce qui lui donne une symétrie

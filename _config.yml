@@ -33,6 +33,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+      pdf: true
 
 mermaid: true
 

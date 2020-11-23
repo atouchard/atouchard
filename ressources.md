@@ -14,3 +14,4 @@ permalink: /ressources
 * [Pablo Bartolomeo](https://clasesdeguitarrapablobartolomeo.blogspot.com/)
 * [Eat.Sleep.Guitar](https://eatsleepguitar.com/)
 * [Guitar School Musicsch.net](http://musicsch.net/)
+* [Build Your Guitar](http://www.buildyourguitar.com/)

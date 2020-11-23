@@ -4,6 +4,7 @@ title: Le Cycle des Quintes
 date: 2020-11-19 10:30
 categories: theorie
 tags: intermediaire theorie
+order_number: 4
 ---
 
 ![Cycle des quintes]({{ site.baseurl }}/assets/images/cycle-of-fifth.png "Cycle des quintes"){: .img-75}

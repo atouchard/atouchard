@@ -4,6 +4,7 @@ title: Les Cadences
 date: 2020-11-19 10:30
 categories: theorie
 tags: intermediaire accords theorie
+order_number: 3
 ---
 
 Les cadences les plus utilisées

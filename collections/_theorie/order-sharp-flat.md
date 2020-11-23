@@ -4,6 +4,7 @@ title: L'Ordre des Dièses et Bémols
 date: 2020-11-22 10:30
 categories: theorie
 tags: intermediaire theorie
+order_number: 8
 ---
 
 ## Ordre des dièses

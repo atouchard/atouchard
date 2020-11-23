@@ -4,8 +4,9 @@ layout: default
 
 {{content}}
 
-<ul>
-  {% for page in site[page.collection] %}
+{% assign ordered_pages = site[page.collection] | sort:"order_number" %}
+<ol>
+  {% for page in ordered_pages %}
     <li><a href="{{site.baseurl}}{{ page.url }}">{{ page.title }}</a></li>
   {% endfor %}
-</ul>
+</ol>

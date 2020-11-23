@@ -4,6 +4,7 @@ title: Les Accords Diminués
 date: 2020-11-19 10:30
 categories: theorie
 tags: intermediaire accords theorie
+order_number: 5
 ---
 
 ## Accord Diminué (dim7 ou °7)
