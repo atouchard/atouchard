@@ -2,6 +2,15 @@
 ---
 
 @import "bootstrap.css";
+html {
+    height: 100%;
+}
+body {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
 
 /* https://medium.com/devseed/using-jekyll-and-github-pages-for-our-site-a0267edf27fa */
 table {
@@ -76,6 +85,10 @@ img {
 }
 
 .navbar-bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
     margin-top: 4rem;
 }
 
@@ -93,6 +106,8 @@ img {
 
 .export-pdf {
     float: right;
+    position: relative;
+    top: 7px;
 }
 .content-inner {
     clear: both;
