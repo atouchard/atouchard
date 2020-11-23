@@ -15,3 +15,4 @@ permalink: /ressources
 * [Eat.Sleep.Guitar](https://eatsleepguitar.com/)
 * [Guitar School Musicsch.net](http://musicsch.net/)
 * [Build Your Guitar](http://www.buildyourguitar.com/)
+* [Jazz Guitar Online](https://www.jazzguitar.be/)
