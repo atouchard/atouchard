@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Ryhtme
+title: Rythme
 permalink: /rythme
 collection: rythme
 ---
