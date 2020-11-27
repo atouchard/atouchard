@@ -38,11 +38,11 @@ defaults:
 mermaid: true
 
 nav_pages:
-  - collections/theorie.md
-  - collections/rythme.md
-  - collections/exercices.md
-  - collections/tips.md
-  - collections/ressources.md
+  - pages/theorie.md
+  - pages/rythme.md
+  - pages/exercices.md
+  - pages/tips.md
+  - pages/ressources.md
 
 plugins:
   - jekyll-seo-tag
