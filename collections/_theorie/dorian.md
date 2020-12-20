@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Le mode Dorien
+title: Le Mode Dorien
 date: 2020-12-20 10:30
 categories: theorie
 tags: intermediaire mode
