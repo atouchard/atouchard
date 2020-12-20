@@ -1,3 +1,12 @@
+---
+layout: page
+title: Le mode Dorien
+date: 2020-12-20 10:30
+categories: theorie
+tags: intermediaire mode
+order_number: 2
+---
+
 # Mode Dorien
 
 Typique en rock, blues, jazz
