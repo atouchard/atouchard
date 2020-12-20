@@ -7,19 +7,17 @@ tags: intermediaire mode
 order_number: 2
 ---
 
-# Mode Dorien
+Utilisé en rock, blues, jazz, ...
 
-Typique en rock, blues, jazz
+Le mode Dorien se base sur la gamme mineure naturelle qui contient la b6. Le mode Dorien utilise les mêmes notes sauf la b6 qui devient une M6.
 
-![Grille Dorien]({{ site.baseurl }}/assets/images/dorian/dorian1.png "Grille Dorien")
-
-On part de la gamme mineure qui contient la b6 qu'on augmente en M6.
+![Notes du Mode Dorien A]({{ site.baseurl }}/assets/images/dorian/dorian1.png "Notes du Mode Dorien A")
 
 |  a  |  b  |   c   |  d |  e  |   f#   |   g   |
 |-----|-----|-------|----|-----|--------|-------|
 | Am7 | Bm7 | Cmaj7 | D7 | Em7 | F#m7b5 | Gmaj7 |
 
-Suite d'accords
+Exemple de suite d'accords:
 
 |  I  | IV |  II |  V  |
 |-----|----|-----|-----|
@@ -30,7 +28,7 @@ Comme pour tous les modes, la gamme pentatonique ne contient pas la note caract�
 On peut jouer la gamme pentatonique du 2nd degré (Bm) pour faire entendre cette note caractéristique. Cette gamme pentatonique contient les notes suivantes:  
 b (II), d (IV), e (V), f# (VI), a (I) (Il manque la tierce !)
 
-![Grille Dorien]({{ site.baseurl }}/assets/images/dorian/dorian2.png "Grille Dorien")
+![Pentatonique du ii]({{ site.baseurl }}/assets/images/dorian/dorian2.png "Pentatonique du ii")
 
-on peut jouer également l'arpège du m7b5, ici f#, qui contient les notes suivantes:  
+On peut jouer également l'arpège du m7b5, ici f#, qui contient les notes suivantes:  
 f# (VI), a (I), c (III), e (V)
