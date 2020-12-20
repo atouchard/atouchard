@@ -11,18 +11,18 @@ order_number: 5
 
 Les 4 notes qui le constituent sont séparées par une tierce mineure, ce qui engendre une symétrie.
 
-![Accord diminué]({{ site.baseurl }}/assets/images/full-diminished1-tierce.png "Accord diminué")
-![Accord diminué]({{ site.baseurl }}/assets/images/full-diminished1-symetrie.png "Accord diminué")
+![Accord diminué]({{ site.baseurl }}/assets/images/full-diminished/full-diminished1-tierce.png "Accord diminué")
+![Accord diminué]({{ site.baseurl }}/assets/images/full-diminished/full-diminished1-symetrie.png "Accord diminué")
 
 ### Les différentes positions
 
-![Accord diminué position 1]({{ site.baseurl }}/assets/images/full-diminished1.png "Accord diminué position 1")
-![Accord diminué position 3]({{ site.baseurl }}/assets/images/full-diminished3.png "Accord diminué position 3")
-![Accord diminué position 2]({{ site.baseurl }}/assets/images/full-diminished2.png "Accord diminué position 2")
+![Accord diminué position 1]({{ site.baseurl }}/assets/images/full-diminished/full-diminished1.png "Accord diminué position 1")
+![Accord diminué position 3]({{ site.baseurl }}/assets/images/full-diminished/ull-diminished3.png "Accord diminué position 3")
+![Accord diminué position 2]({{ site.baseurl }}/assets/images/full-diminished/full-diminished2.png "Accord diminué position 2")
 
 ## Accord Demi-Diminué (m7b5 ou Ø)
 
-![Accord demi-diminué]({{ site.baseurl }}/assets/images/semi-diminished1.png "Accord demi-diminué")
+![Accord demi-diminué]({{ site.baseurl }}/assets/images/semi-diminished/semi-diminished1.png "Accord demi-diminué")
 
 ## Utilisation
 

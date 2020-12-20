@@ -9,9 +9,9 @@ order_number: 1
 
 Il ne contient que des tierces majeures, ce qui lui donne une symétrie
 
-![Accord augmenté]({{ site.baseurl }}/assets/images/augmented1-tierce.png "Accord augmenté")
-![Accord augmenté]({{ site.baseurl }}/assets/images/augmented1-symetrie.png "Accord augmenté")
-![Accord augmenté]({{ site.baseurl }}/assets/images/augmented2-symetrie.png "Accord augmenté")
+![Accord augmenté]({{ site.baseurl }}/assets/images/augmented/augmented1-tierce.png "Accord augmenté")
+![Accord augmenté]({{ site.baseurl }}/assets/images/augmented/augmented1-symetrie.png "Accord augmenté")
+![Accord augmenté]({{ site.baseurl }}/assets/images/augmented/augmented2-symetrie.png "Accord augmenté")
 
 C - E - G# - C
 
