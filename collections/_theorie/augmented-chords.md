@@ -32,8 +32,8 @@ On peut lui rajouter une b7 (noté: aug7 ou +7 ou 7#5)
 
 A / E+aug7
 
-![Accord augmenté 7]({{ site.baseurl }}/assets/images/augmented-aug7-1.png "Accord augmenté 7")
-![Accord augmenté 7]({{ site.baseurl }}/assets/images/augmented-aug7-2.png "Accord augmenté 7")
+![Accord augmenté 7]({{ site.baseurl }}/assets/images/augmented/augmented-aug7-1.png "Accord augmenté 7")
+![Accord augmenté 7]({{ site.baseurl }}/assets/images/augmented/augmented-aug7-2.png "Accord augmenté 7")
 
 On peut lui rajouter une 7ème majeure (noté: augM7 ou +M7 ou M7#5), jouer également sur la tonique
 
