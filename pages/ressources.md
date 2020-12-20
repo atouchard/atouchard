@@ -16,3 +16,26 @@ permalink: /ressources
 * [Guitar School Musicsch.net](http://musicsch.net/)
 * [Build Your Guitar](http://www.buildyourguitar.com/)
 * [Jazz Guitar Online](https://www.jazzguitar.be/)
+
+# Free Lessons
+
+* [L'Oreillle Moderne](https://www.oreille-moderne.com/)
+* [Learn Guitar Now](https://www.learningguitarnow.com/)
+* [GuitarLessons](https://www.guitarlessons.com/)
+* [JustinGuitar](https://www.justinguitar.com/)
+* [Mr FastFinger](http://mrfastfinger.net/lessons/)
+
+# Paid lessons
+
+* [JamPlay](http://jamplay.com/)
+* [TrueFire](https://truefire.com/)
+* [LickLibrary](https://www.licklibrary.com/)
+
+# Online Guitar Tools
+
+* [Chordbook](https://chordbook.com/guitar-chords/)
+* [Music Theory](https://www.musictheory.net/)
+* [Drum machine](https://drumbit.app/)
+* [ChordChord](https://chordchord.com/)
+* [WikiLoops](https://www.wikiloops.com/tracks/track-finder.php)
+* [Guitar backing track](https://www.guitarbackingtrack.com/)
