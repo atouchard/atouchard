@@ -8,3 +8,7 @@
 - [Les Cadences](https://atouchard.github.io/atouchard/theorie/cadences/)
 - [Le Cycle des Quintes](https://atouchard.github.io/atouchard/theorie/cycle-of-fifth/)
 <!-- BLOG-POST-LIST:END -->
+
+### Ressources
+
+- https://medium.com/devseed/using-jekyll-and-github-pages-for-our-site-a0267edf27fa
