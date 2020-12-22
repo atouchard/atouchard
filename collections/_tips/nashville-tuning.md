@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nashville tuning
+title: Nashville Tuning
 date: 2020-11-22 19:30
 categories: tips
 tags: intermediaire accords exercices
