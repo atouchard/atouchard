@@ -37,7 +37,6 @@ tags: intermediaire picking exercices
     tabstave notation=true
     key=C
     notes: 4 3/5 0/3 2/4 0/3 $T, T, T, T$
-    text: 1, C
 </div>
 
 ## Exercice 4
@@ -48,14 +47,12 @@ tags: intermediaire picking exercices
     tabstave notation=true
     key=C
     notes :4 (3/5.1/2) :8 2/4 0/3 :4 3/5 2/4 $TM, T, I, T, T$ | 
-    text: 1, C
 
     options font-size=12 font-face=times font-style=italic stave-distance=0 scale=0.75 width=1000
     tab-stems=false tab-stem-direction=up
     tabstave notation=true
     key=C
     notes :4 (3/5.1/2) :8 2/4 0/3 :8 3/5 1/2 :4 2/4 $TM, T, I, T, M, T$ | 
-    text: 1, C
 </div>
 
 <div class="vextab-auto" width=1000>
