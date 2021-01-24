@@ -13,6 +13,6 @@ Les dominantes secondaires sont les 5ème degré de tout autre accord, ils perme
 
 Par exemple, pour C - Dm - G - C
 
-Le 5ème degré de Dm est A
+Le 5ème degré de Dm est Am 
 
 La suite d'accord devient C- A - Dm - G - C

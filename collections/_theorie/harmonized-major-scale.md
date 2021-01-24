@@ -7,6 +7,42 @@ tags: intermediaire theorie
 order_number: 10
 ---
 
-|  I  | IV  |  VII  | III | VI  | II  |  V  | I
-------|-----|-------|-----|-----|-----|-----|------
+## Accords à 3 sons (triades)
+
+Un accord à 3 sons (triade) est composé d'une fondamentale, d'une tierce et d'une quinte.  
+
+> Triade = Fondamentale + tierce + quinte
+
+La tierce peut être majeure ou mineure, et la quinte peut être juste, augmentée ou diminuée.  
+Ces accords peuvent également être vus comme la superposition de deux tierces (empilement de tierce): une tierce entre la fondamentale et la tierce, et une tierce entre la tierce et la quinte.
+
+| I | ii | iii | IV | V  | vi | vii |
+|---|----|-----|----|----|----|-----|
+| C |    | E   |    | G  |    |     |
+| D |    | F#  |    | A  |    |     |
+| E |    | G#  |    | B  |    |     |
+| F |    | A   |    | C  |    |     |
+| G |    | B   |    | D  |    |     |
+| A |    | C#  |    | E  |    |     |
+| B |    | D#  |    | F# |    |     |
+
+
+| I      | ii     | iii    | IV     | V      | vi     | vii    |
+|--------|--------|--------|--------|--------|--------|--------|
+| Majeur | mineur | mineur | Majeur | Majeur | mineur | mineur |
+
+| Degré gamme I | Relative mineure vi |
+|---------------|---------------------|
+| C             | A                   |
+| D             | B                   |
+| E             | C                   |
+| F             | D                   |
+| G             | E                   |
+| A             | F                   |
+| B             | G                   |
+
+Un exemple d'enchainement d'accords utilisant l'ensemble des degrés de la gamme.
+
 | CM7 | FM7 | Bm7b5 | Em7 | Am7 | Dm7 |  G7 | CM7  
+------|-----|-------|-----|-----|-----|-----|------
+|  I  | IV  |  VII  | III | VI  | II  |  V  | I

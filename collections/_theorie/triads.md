@@ -7,9 +7,14 @@ tags: intermediaire accords theorie
 order_number: 2
 ---
 
-CM7 == Em/C
+Les triades ont deux inversions possibles:
 
-Un CM7 est une triade de Em avec une base C.
+Première inversion: la tierce de l'accord est la note la plus basse.
+Deuxième inversion: la cinquième de l'accord est la note la plus basse.
+
+CMaj7 = Em/C
+
+Un CMaj7 est une triade de Em avec une base C.
 
 Ce qui veut dire, on peut jouer toutes les triades Em si une basse est en C. On ne joue pas la tonique de cette manière, on évite la redondance.
 
@@ -18,3 +23,32 @@ Em7 = G/E
 Am7 = C/A
 
 G7 = Bdim/G
+
+## Open Major Triads G
+
+<div class="vextab-auto" width=1000>
+    options font-size=12 font-face=times font-style=italic stave-distance=0 scale=0.75 width=1000
+    tab-stems=false tab-stem-direction=up
+    tabstave notation=true
+    key=G
+    notes: 1 (3/6.5/5.4/3) | (7/6.5/4.7/3) | (10/6.9/4.12/3) | (15/6.12/4.16/3)
+    text :w, G, |, G/B, |, G/D, |, G
+</div>
+
+<div class="vextab-auto" width=1000>
+    options font-size=12 font-face=times font-style=italic stave-distance=0 scale=0.75 width=1000
+    tab-stems=false tab-stem-direction=up
+    tabstave notation=true
+    key=G
+    notes: 1 (2/5.5/4.3/2) | (5/5.4/3.3/1) | (10/5.12/4.12/2) 
+    text :w, G/B, |, G/D, |, G
+</div>
+
+<div class="vextab-auto" width=1000>
+    options font-size=12 font-face=times font-style=italic stave-distance=0 scale=0.75 width=1000
+    tab-stems=false tab-stem-direction=up
+    tabstave notation=true
+    key=G
+    notes: 1 (0/4.0/2.3/1) | (5/4.7/3.7/1) | (9/4.12/3.10/1) 
+    text :w, G/D, |, G, |, G/B
+</div>

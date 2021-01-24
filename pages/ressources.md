@@ -31,6 +31,11 @@ permalink: /ressources
 * [TrueFire](https://truefire.com/)
 * [LickLibrary](https://www.licklibrary.com/)
 
+# Individual
+
+* [Tim Miller](https://www.timmillermusiclessons.com/)
+* [Jon Bjork](https://www.jonbjorkmusic.com/)
+
 # Online Guitar Tools
 
 * [Chordbook](https://chordbook.com/guitar-chords/)

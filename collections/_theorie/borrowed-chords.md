@@ -7,7 +7,8 @@ tags: intermediaire accords theorie
 order_number: 2
 ---
 
-Un accord d'emprunt est juste une simple substitution par un accord n'appartenant pas à la tonalité. On parle de modulation si au moins 2 accords d'une nouvelle tonalité existe.
+Un accord d'emprunt est un accord n'appartenant pas à la tonalité du morceau.  
+Les accords d'emprunts proviennent des tons voisins.
 
 Prenons l'exemple d'une gamme majeure de C, nous pouvons empruntés les accords de sa gamme mineure Cm.
 
@@ -17,7 +18,7 @@ Gamme Majeure | C  | Dm | Em | F  | G  | Am | B° |
 Gamme Mineure | Cm | D° | Eb | Fm | Gm | Ab | Bb |
 
 
-Sur le IV, par exemple, pour un I - IV - I:
+Sur le IV, par exemple, pour un I - IV:
 C - F - Fm - C ou C - Fm - C
 
 Sur le vi:

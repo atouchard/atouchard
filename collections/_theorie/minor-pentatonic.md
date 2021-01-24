@@ -7,6 +7,8 @@ tags: intermediaire theorie gamme
 order_number: 7
 ---
 
+les quintes des quintes font la penta mineure.
+
 ![]({{site.baseurl}}/assets/images/art/dsc_0017.jpg){: .img-25}
 [https://marjoloponen.wordpress.com/2010/03/30/onko-varilla-valia/dsc_0017/](https://marjoloponen.wordpress.com/2010/03/30/onko-varilla-valia/dsc_0017/){:target="_blank" : .img-src}
 

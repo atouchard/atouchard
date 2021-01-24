@@ -39,5 +39,6 @@ Le I et II sont souvent utilisés ainsi que le VII
 
 cette gamme va très bien avec les accords de seconde de dominante.
 
+C       - A7                   - Dm  - G7
 Emaj7   - G#7                  - C#m - Amaj7
 Emajeur - G# phrygien dominant - Emajeur
