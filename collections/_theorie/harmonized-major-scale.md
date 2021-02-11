@@ -31,6 +31,10 @@ Ces accords peuvent également être vus comme la superposition de deux tierces 
 |--------|--------|--------|--------|--------|--------|--------|
 | Majeur | mineur | mineur | Majeur | Majeur | mineur | mineur |
 
+| I | ii | iii | IV | V | vi | vii |
+|---|----|-----|----|---|----|-----|
+|   | 9  |     | 11 |   | 13 |     |
+
 | Degré gamme I | Relative mineure vi |
 |---------------|---------------------|
 | C             | A                   |
@@ -46,3 +50,11 @@ Un exemple d'enchainement d'accords utilisant l'ensemble des degrés de la gamme
 | CM7 | FM7 | Bm7b5 | Em7 | Am7 | Dm7 |  G7 | CM7  
 ------|-----|-------|-----|-----|-----|-----|------
 |  I  | IV  |  VII  | III | VI  | II  |  V  | I
+
+Chaque accord de la gamme a une fonction et une sensibilité, cela va se traduire par les progressions d'accord et notamment les [cadences](/theorie/cadences).
+
+Chanque accord a une fonction harmonique et un rôle. 
+
+* Fonction tonique (I, iii, vi): stable, on est à la maison
+* Fonction de sous-dominante (ii, IV): amènent à un autre accord
+* Fonction de dominante (V, vii): créés une tension et demande une resolution 

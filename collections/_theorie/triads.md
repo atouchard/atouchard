@@ -18,12 +18,20 @@ Un CMaj7 est une triade de Em avec une base C.
 
 Ce qui veut dire, on peut jouer toutes les triades Em si une basse est en C. On ne joue pas la tonique de cette manière, on évite la redondance.
 
+Tous les accords de 4 notes contiennent une ou 2 triades en son sein.
+
 Dm7 = F/D  
 Em7 = G/E  
 Am7 = C/A
 
 G7 = Bdim/G
 
+IV peut être remplacé par le iim7
+iii peut être remplacé par le IMaj7
+vii peut être remplacé par le V7
+
+ Major (1-3-5), minor (1-b3-5), diminished (1-b3-b5) and augmented (1-3-#5).
+ 
 ## Open Major Triads G
 
 <div class="vextab-auto" width=1000>

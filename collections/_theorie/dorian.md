@@ -26,7 +26,7 @@ Exemple de suite d'accords:
 Comme pour tous les modes, la gamme pentatonique ne contient pas la note caractéristique du mode dorien, ici le f#.
 
 On peut jouer la gamme pentatonique du 2nd degré (Bm) pour faire entendre cette note caractéristique. Cette gamme pentatonique contient les notes suivantes:  
-b (II), d (IV), e (V), f# (VI), a (I) (Il manque la tierce !)
+b (II), d (IV), e (V), f# (VI), a (I) (Mais il manque la tierce !)
 
 ![Pentatonique du ii]({{ site.baseurl }}/assets/images/dorian/dorian2.png "Pentatonique du ii")
 
