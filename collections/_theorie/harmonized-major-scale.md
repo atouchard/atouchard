@@ -51,7 +51,7 @@ Un exemple d'enchainement d'accords utilisant l'ensemble des degrés de la gamme
 ------|-----|-------|-----|-----|-----|-----|------
 |  I  | IV  |  VII  | III | VI  | II  |  V  | I
 
-Chaque accord de la gamme a une fonction et une sensibilité, cela va se traduire par les progressions d'accord et notamment les [cadences](/theorie/cadences).
+Chaque accord de la gamme a une fonction et une sensibilité, cela va se traduire par les progressions d'accord et notamment les [cadences]({{ site.baseurl }}/theorie/cadences).
 
 Chanque accord a une fonction harmonique et un rôle. 
 
