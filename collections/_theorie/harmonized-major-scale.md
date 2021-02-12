@@ -53,7 +53,7 @@ Un exemple d'enchainement d'accords utilisant l'ensemble des degrés de la gamme
 
 Chaque accord de la gamme a une fonction et une sensibilité, cela va se traduire par les progressions d'accord et notamment les [cadences]({{ site.baseurl }}/theorie/cadences).
 
-Chanque accord a une fonction harmonique et un rôle. 
+Chaque accord a une fonction harmonique et un rôle:
 
 * Fonction tonique (I, iii, vi): stable, on est à la maison
 * Fonction de sous-dominante (ii, IV): amènent à un autre accord
