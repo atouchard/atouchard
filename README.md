@@ -2,11 +2,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [La Gamme Altérée](https://atouchard.github.io/atouchard/theorie/altered-scale/)
+- [L'Harmonisation De La Gamme Majeure](https://atouchard.github.io/atouchard/theorie/harmonized-major-scale/)
+- [Les Accords Altérés](https://atouchard.github.io/atouchard/theorie/altered-chords/)
+- [L'Ordre des Dièses et Bémols](https://atouchard.github.io/atouchard/theorie/order-sharp-flat/)
 - [Les Accords Augmentés (aug ou +)](https://atouchard.github.io/atouchard/theorie/augmented-chords/)
 - [Les Accords Empruntés](https://atouchard.github.io/atouchard/theorie/borrowed-chords/)
-- [Les Cadences](https://atouchard.github.io/atouchard/theorie/cadences/)
-- [Le Cycle des Quintes](https://atouchard.github.io/atouchard/theorie/cycle-of-fifth/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Ressources
