@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Le Gamme Pentatonique Dominante
-date: 2020-12-20 10:30
+title: La Gamme Pentatonique Dominante 
+date: 2020-11-19 10:30
 categories: theorie
-tags: intermediaire gamme
-order_number: 2
+tags: intermediaire theorie
+order_number: 6
 ---
+
+C'est la gamme pentatonique majeure à laquelle on a subsitué la M6 par la b7.  
+Ce qui donne un accord de 9eme (T+M2+M3+M5+b7) et donc un arpège de dominant 9.
 
 I II III V VIIb
 

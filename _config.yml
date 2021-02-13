@@ -25,10 +25,15 @@ collections:
   exercices:
       output: true
       permalink: /exercices/:path/
+  modes:
+      output: true
+      permalink: /modes/:path/
+  gammes:
+      output: true
+      permalink: /gammes/:path/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
@@ -37,8 +42,13 @@ defaults:
 
 mermaid: true
 
+excerpt_separator: <!--more-->
+
 nav_pages:
+  - pages/posts.md
   - pages/theorie.md
+  - pages/gammes.md
+  - pages/modes.md
   - pages/rythme.md
   - pages/exercices.md
   - pages/tips.md
@@ -55,5 +65,9 @@ exclude:
   - Gemfile.lock
   - package.json
   - README.md
+  - .editorconfig
+  - .gitignore
+  - package.json
+  - package-lock.json
 
 theme: null
