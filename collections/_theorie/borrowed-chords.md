@@ -10,7 +10,7 @@ order_number: 2
 Un accord d'emprunt est un accord n'appartenant pas à la tonalité du morceau.  
 Les accords d'emprunts proviennent des tons voisins.
 
-Prenons l'exemple d'une gamme majeure de C, nous pouvons empruntés les accords de sa gamme mineure Cm.
+Prenons l'exemple d'une gamme majeure de C, nous pouvons emprunter les accords de sa gamme mineure Cm.
 
 
 Gamme Majeure | C  | Dm | Em | F  | G  | Am | B° |

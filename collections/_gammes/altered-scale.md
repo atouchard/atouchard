@@ -7,8 +7,8 @@ tags: intermediaire theorie
 order_number: 6
 ---
 
-7eme mode dela gamme mineure melodique
+7ème mode de la gamme mineure melodique
 
-Se joue sur les accords dominante 7
+Se joue sur les accords de dominante 7
 
 T b2 b3 b4 b5 b6 b7 (sans quinte juste)

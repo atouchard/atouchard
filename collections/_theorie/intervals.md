@@ -43,7 +43,7 @@ Les intervalles redoublées sont quand l'intervalle dépasse l'octave. On rajout
 
 Elle peuvent faire partie de l'octave de l'accord car certaines notes peuvent être sous entendu (on omet la quinte par exemple).
 
-Les accords sont constitués de tierce empilés 1 - 3 - 5 - 7 et si on continue, 9 - 11 - 13, ce qui nious donne les 7 notes de la gamme:
+Les accords sont constitués de tierce empilés 1 - 3 - 5 - 7 et si on continue, 9 - 11 - 13, ce qui nous donne les 7 notes de la gamme:
 
 1 - 9 - 3 - 11 - 5 - 13 - 7
 

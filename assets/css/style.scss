@@ -62,7 +62,7 @@ tbody tr {
     border-bottom: 1px solid #ddd;
 }
 
-tbody tr:nth-of-type(even) {
+tbody tr:nth-of-type(0) {
     background-color: #f3f3f3;
 }
 
@@ -271,3 +271,5 @@ navbar-nav .nav-link {
     text-align: center;
     margin: 20px 0;
 }
+
+.highlights { background: orange; }
