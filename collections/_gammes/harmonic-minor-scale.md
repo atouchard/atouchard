@@ -30,8 +30,8 @@ ex: Am - Dm - **E - E7**
 * Dans une tonalité majeure, sur les Vème degré.  
 ex: C - Am - **G - G7**
 
-![gamme harmonique mineure]({{ site.baseurl }}/assets/images/harmonic-minor/harmonic-minor-1.png "gamme harmonique mineure 1")
+![gamme harmonique mineure]({{ site.baseurl }}/assets/images/harmonic-minor/harmonic-minor-1.jpeg "gamme harmonique mineure 1")
 
-![gamme harmonique mineure]({{ site.baseurl }}/assets/images/harmonic-minor/harmonic-minor-2.png "gamme harmonique mineure 2")
+![gamme harmonique mineure]({{ site.baseurl }}/assets/images/harmonic-minor/harmonic-minor-2.jpeg "gamme harmonique mineure 2")
 
-![gamme harmonique mineure]({{ site.baseurl }}/assets/images/harmonic-minor/harmonic-minor-3.png "gamme harmonique mineure 3")
+![gamme harmonique mineure]({{ site.baseurl }}/assets/images/harmonic-minor/harmonic-minor-3.jpeg "gamme harmonique mineure 3")
