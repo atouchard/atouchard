@@ -65,3 +65,12 @@ On peut aussi étendre un ii - V - I:
 |  ii |  V |  iii  |   VI  | ii  | V  |   I   |
 |-----|----|-------|-------|-----|----|-------|
 | Dm7 | G7 | Em7b5 | Aaug7 | Dm7 | G7 | Cmaj7 |
+
+
+Les arpèges diminués
+
+Ils font entendre un accord de 7b9, ces notes sont M3, M5, b7, b9. Pour un accord de A: Db, E, G, Bb
+
+Arpège présent dans le mode superlocrien, phrygien dominant
+
+schema arpèges

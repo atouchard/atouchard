@@ -9,7 +9,7 @@ order_number: 2
 
 Utilisé dans le metal ou la musique ethnique (indienne, flamenco, arabe, ...)
 
-"Elle possède beaucoup de chose en commun avec la gamme phrygienne et la gamme harmonique mineure", ce que nous allons voir par la suite
+"Elle possède beaucoup de chose en commun avec la gamme phrygienne et la gamme harmonique mineure", ce que nous allons voir par la suite.
 
 ![gamme phrygienne]({{ site.baseurl }}/assets/images/phrygian-dominant/phrygian-dominant1.png "gamme phrygienne")
 
@@ -31,14 +31,20 @@ Accords du mode
 
 | I | II |  III  | IV |   V   |  VI  | VII |
 |---|----|-------|----|-------|------|-----|
-| E |  F | G#dim | Am | Bm7b5 | Caug |  DM |
+| E |  F | G#dim | Am | Bdim  | Caug |  Dm |
 
 Seul les 2 premiers accords sont majeurs, les autres sont mineurs ou diminués.
 
-Le I et II sont souvent utilisés ainsi que le VII
+Le I et II sont souvent utilisés ainsi que le IV et le VII.
 
-cette gamme va très bien avec les accords de seconde de dominante.
+Cette gamme va très bien avec les accords de seconde de dominante (G#7 est la seconde dominante de C#m):
 
-C       - A7                   - Dm  - G7
-Emaj7   - G#7                  - C#m - Amaj7
-Emajeur - G# phrygien dominant - Emajeur
+| Emaj7   | G#7                  | C#m     | Amaj7   |
+|---------|----------------------|---------|---------|
+| Emajeur | G# phrygien dominant | Emajeur | Emajeur |
+
+En majeur, quand la VI est majeur (dominant 7), on peut jouer la gamme phrygien dominante sur le VI (ici A7 est la seconde de domiante de Dm):
+
+C > A7 > Dm > G7
+
+En règle générale sur un accord dominant 7, la gamme phrygienne dominante sert à accentuer la tension.
