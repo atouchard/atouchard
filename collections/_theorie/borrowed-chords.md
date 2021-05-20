@@ -21,11 +21,15 @@ Gamme Mineure | Cm | D° | Eb | Fm | Gm | Ab | Bb |
 Sur le IV, par exemple, pour un I - IV:
 C - F - Fm - C ou C - Fm - C
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YF_wAcLtJGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Sur le vi:
-C - Ab
+C - Am devient Ab
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZcPbWGjkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Sur le iii:
-C - Eb
+C - Em devient Eb
 
 Sur le ii:
 C - D°

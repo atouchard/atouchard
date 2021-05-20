@@ -26,7 +26,7 @@ Les 4 notes qui le constituent sont séparées par une tierce mineure, ce qui en
 
 ## Utilisation
 
-Les 2 accords peuvent être utilisés comme accord de passage pour résoudre vers l'accord qui suit
+Les 2 accords sont utilisés comme accord de passage pour résoudre vers l'accord qui suit.
 
 ex: I vers ii, C puis Db°7 et Dm
 
@@ -34,19 +34,19 @@ Du fait de la symetrie, le E°7 peut être utilisé également (il contient les 
 
 ex: I vers ii, C puis E°7 et Dm
 
-Il est souvent utilisé entre le IV et le V et toutes les espaces de 1 ton
+L'accord demi-diminué est souvent utilisé entre le IV et le V et tous les espaces de 1 ton.
 
-Du fait la symétrie, l'accord diminué entre le IV et le V est le même que enter le ii et iii.
+Du fait de la symétrie, l'accord diminué entre le IV et le V est le même que entre le ii et iii.
 
-Du fait la symétrie, l'accord diminué entre le I et ii est le même que enter le vi et vii.
+Du fait de la symétrie, l'accord diminué entre le I et ii est le même que entre le vi et vii.
 
 Il peut aussi être une subsitution de la dominante V.
 
-L'accord demi-diminué est sur le 7ème degré en majeur et 2ème en mineur.
+L'accord demi-diminué est sur le 7ème degré en majeur et sur le 2ème en mineur.
 
 L'accord diminué est sur le 7ème degré en mineur (harmonic)
 
-L'accord demi-diminué et diminué peut remplacer le ii et le iii dans une suite d'accord
+L'accord demi-diminué et diminué peuvent remplacer le ii et le iii dans une suite d'accord.
 
 ex:
 

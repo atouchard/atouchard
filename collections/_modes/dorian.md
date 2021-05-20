@@ -26,7 +26,7 @@ Exemple de suite d'accords:
 |-----|----|-----|-----|
 | Am7 | D7 | Bm7 | Em7 |
 
-Comme pour tous les modes, la gamme pentatonique ne contient pas la note caractéristique du mode dorien, ici le f#.
+Comme pour tous les modes, la gamme pentatonique ne contient pas la note caractéristique du mode dorien (M6), ici le f#.
 
 On peut jouer la gamme pentatonique du 2nd degré (Bm) pour faire entendre cette note caractéristique. Cette gamme pentatonique contient les notes suivantes:  
 b (II), d (IV), e (V), f# (VI), a (I) (Mais il manque la tierce !)
