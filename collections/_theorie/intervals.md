@@ -16,7 +16,7 @@ Les intervalles justes peuvent être diminuées ou augmentées
 Une gamme majeure diatonique ne contient que des intervalles de 1 ton ou 1/2 ton. Une gamme contenant une intervalle de 1 ton et demi n'est pas diatonique.
 
 
-Root - b2 - M2 - b3 - M3 - P4 - #4/b5 - P5 - b6 - M6 -b7 - M7
+Root - ♭2 - M2 - ♭3 - M3 - P4 - #4/♭5 - P5 - ♭6 - M6 -♭7 - M7
 
 
 ![]({{site.baseurl}}/assets/images/art/87b325c8beb56091050100db000d1ee8.jpg){: .img-25}
@@ -29,9 +29,9 @@ Une quarte devient une quinte. G est la quinte de C et C et la quarte de G.
 Les intervalles complémentaires sont les intervalles entre 2 notes identiques:
 
 * la quarte et la quinte (P4 et P5)
-* la tierce et la sixte (M3 et b6 ou m3 et M6)
-* la seconde et la septième (b2 et M7 ou M2 et b7)
-* le triton est son propre intervalle complémentaire (ou #4 et b5)
+* la tierce et la sixte (M3 et ♭6 ou m3 et M6)
+* la seconde et la septième (♭2 et M7 ou M2 et ♭7)
+* le triton est son propre intervalle complémentaire (ou #4 et ♭5)
 
 La règles des 9
 
