@@ -20,7 +20,7 @@ Les 4 notes qui le constituent sont séparées par une tierce mineure, ce qui en
 ![Accord diminué position 3]({{ site.baseurl }}/assets/images/full-diminished/ull-diminished3.png "Accord diminué position 3")
 ![Accord diminué position 2]({{ site.baseurl }}/assets/images/full-diminished/full-diminished2.png "Accord diminué position 2")
 
-## Accord Demi-Diminué (m7b5 ou Ø)
+## Accord Demi-Diminué (m7♭5 ou Ø)
 
 ![Accord demi-diminué]({{ site.baseurl }}/assets/images/semi-diminished/semi-diminished1.png "Accord demi-diminué")
 
@@ -28,7 +28,7 @@ Les 4 notes qui le constituent sont séparées par une tierce mineure, ce qui en
 
 Les 2 accords sont utilisés comme accord de passage pour résoudre vers l'accord qui suit.
 
-ex: I vers ii, C puis Db°7 et Dm
+ex: I vers ii, C puis D♭°7 et Dm
 
 Du fait de la symetrie, le E°7 peut être utilisé également (il contient les mêmes notes)
 
@@ -58,18 +58,20 @@ ex:
 
 |   I   |  ii |  iii  | VI | ii  | V  |   I   |
 |-------|-----|-------|----|-----|----|-------|
-| Cmaj7 | Dm7 | Em7b5 | A7 | Dm7 | G7 | Cmaj7 |
+| Cmaj7 | Dm7 | Em7♭5 | A7 | Dm7 | G7 | Cmaj7 |
 
 On peut aussi étendre un ii - V - I:
 
 |  ii |  V |  iii  |   VI  | ii  | V  |   I   |
 |-----|----|-------|-------|-----|----|-------|
-| Dm7 | G7 | Em7b5 | Aaug7 | Dm7 | G7 | Cmaj7 |
+| Dm7 | G7 | Em7♭5 | Aaug7 | Dm7 | G7 | Cmaj7 |
 
 
 Les arpèges diminués
 
-Ils font entendre un accord de 7b9, ces notes sont M3, M5, b7, b9. Pour un accord de A: Db, E, G, Bb
+Ils font entendre un accord de 7b9, ces notes sont M3, M5, ♭7, ♭9. Pour un accord de A: D♭, E, G, B♭  
+On peut le voir comme un arpège de 7ème ou la tonique est remplacé par la ♭9.  
+Il démarre 1/2 ton plus haut que l'accord.
 
 Arpège présent dans le mode superlocrien, phrygien dominant
 

@@ -28,7 +28,7 @@ On peut ajouter une 9ème pour encore augmenter la tension
 
 Am / E+(add9)
 
-On peut lui rajouter une b7 (noté: aug7 ou +7 ou 7#5)
+On peut lui rajouter une ♭7 (noté: aug7 ou +7 ou 7#5)
 
 A / E+aug7
 

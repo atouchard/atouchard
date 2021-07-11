@@ -41,50 +41,50 @@ B, C #, D #, E, F #, G #, A #, B
 
 Les dièses sont en position 2, 3, 5, 6 et 7.
 
-## Ordre des bémols
+## Ordre des Bémols
 
 La règle du +7:
-Si G a un #, Gb a 6 bemols
-Si D a deux #, Db a 5 bemols
-Si A a trois #, Ab a 4 bemols
-Si E a quatre #, Eb a 3 bemols
-Si B a cinq #, Bb a 2 bemols
+Si G a un #, G♭ a 6 bemols
+Si D a deux #, D♭ a 5 bemols
+Si A a trois #, A♭ a 4 bemols
+Si E a quatre #, E♭ a 3 bemols
+Si ♭ a cinq #, B♭ a 2 bemols
 
 La F n'a pas de bemols
 
 ### La gamme de fa majeur
 
-F, G, A, Bb, C, D, E, F
+F, G, A, B♭, C, D, E, F
 
 Le bémol est en position 4.
 
-### La gamme de si bémol majeur
+### La gamme de B♭ majeur
 
-Bb, C, D, Eb, F, G, A, Bb
+B♭, C, D, E♭, F, G, A, B♭
 
 Les bémols sont en position 1 et 4.
 
-### La gamme de mi bémol majeur
+### La gamme de E♭ majeur
 
-Eb, F, G, Ab, Bb, C, D, Eb
+E♭, F, G, A♭, B♭, C, D, E♭
 
 Les bémols sont en position 1, 4 et 5.
 
 
-### La gamme de Ab Major
+### La gamme de A♭ Major
 
-Ab, Bb, C, Db, Eb, F, G, Ab
+A♭, B♭, C, D♭, E♭, F, G, A♭
 
 Les bémols sont en position 1, 2, 4 et 5.
 
-### La gamme de Db Major
+### La gamme de D♭ Major
 
-Db, Eb, F, Gb, Ab, Bb, C, Db
+D♭, E♭, F, G♭, A♭, B♭, C, D♭
 
 Les bémols sont en position 1, 2, 4, 5 et 6.
 
-### La gamme de Gb Major
+### La gamme de G♭ Major
 
-Gb, Ab, Bb, Cb, Db, Eb, F, Gb
+G♭, A♭, B♭, C♭, D♭, E♭, F, G♭
 
 Les bémols sont en position 1, 2, 3, 4, 5 et 6.

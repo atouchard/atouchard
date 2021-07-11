@@ -9,11 +9,11 @@ order_number: 1
 
 ## Harmonisation des modes
 
-|            | I       | II                    | III | IV  | V   | VI  | VII                   |
-|------------|---------|-----------------------|-----|-----|-----|-----|-----------------------|
-| Ionien     | **MAJ** | min                   | min | MAJ | MAJ | min | dim                   |
-| Lydien     | **MAJ** | **MAJ**{:.highlights} | min | dim | MAJ | min | min                   |
-| Mixolydien | **MAJ** | min                   | dim | MAJ | min | min | **MAJ**{:.highlights} |
+|            | I       | II                    | III | IV  | V                     | VI  | VII                   |
+|------------|---------|-----------------------|-----|-----|-----------------------|-----|-----------------------|
+| Ionien     | **MAJ** | min                   | min | MAJ | MAJ                   | min | dim                   |
+| Lydien     | **MAJ** | **MAJ**{:.highlights} | min | dim | MAJ                   | min | min                   |
+| Mixolydien | **MAJ** | min                   | dim | MAJ | **min**{:.highlights} | min | **MAJ**{:.highlights} |
 
 |          | I       | II                    | III | IV                    | V   | VI  | VII |
 |----------|---------|-----------------------|-----|-----------------------|-----|-----|-----|

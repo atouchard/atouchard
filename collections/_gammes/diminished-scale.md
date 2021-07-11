@@ -7,12 +7,12 @@ tags: intermediaire theorie
 order_number: 6
 ---
 
-1 temps / 1/2 temps (whole step / half step) = Tonic diminished scale
+1 ton / 1/2 ton (whole step / half step) = Tonic diminished scale
 
 Joué sur les accords diminués et des fois sur les accords mineurs
 
 ou 
 
-1/2 temps / 1 temps (half step / whole step) = Dominant diminished scale
+1/2 ton / 1 ton (half step / whole step) = Dominant diminished scale
 
 Joué sur les accords de dominante

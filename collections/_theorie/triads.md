@@ -7,6 +7,23 @@ tags: intermediaire accords theorie
 order_number: 2
 ---
 
+
+|             |             |          |
+|-------------|-------------|----------|
+| Do Majeur   | Do Mi Sol   | C-E-G    |
+| Sol Majeur  | Sol Si Ré   | G-B-D    |
+| Ré mineur   | Re Fa La    | D-F-A    |
+| La Majeur   | La Do# Mi   | A-C#-E   |
+| Mi Majeur   | Mi Sol# Si  | E-G#-B   |
+| Fa mineur   | Fa La♭ Do   | F-A♭-C   |
+| Do mineur   | Do Mi♭ Sol  | C-E♭-G   |
+| Si Majeur   | Si Ré# Fa#  | B-D#-F#  |
+| Sol mineur  | Sol Si♭ Ré  | G-B♭-D   |
+| Ré Majeur   | Ré Fa# La   | D-F#-A   |
+| Si Majeur   | Si Re# Fa#  | B-D#-F#  |
+| Fa Majeur   | Fa La Do    | F-A-C    |
+
+
 Les triades ont deux inversions possibles:
 
 Première inversion: la tierce de l'accord est la note la plus basse.
@@ -30,7 +47,7 @@ IV peut être remplacé par le iim7
 iii peut être remplacé par le IMaj7
 vii peut être remplacé par le V7
 
- Major (1-3-5), minor (1-b3-5), diminished (1-b3-b5) and augmented (1-3-#5).
+Major (1-3-5), minor (1-♭3-5), diminished (1-♭3-♭5) and augmented (1-3-#5).
  
 ## Open Major Triads G
 

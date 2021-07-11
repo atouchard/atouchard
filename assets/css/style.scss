@@ -38,6 +38,7 @@ a:hover {
 p {
     margin-top: 0;
     margin-bottom: 1rem;
+    line-height: 1.6;
 }
 
 table {
@@ -272,4 +273,6 @@ navbar-nav .nav-link {
     margin: 20px 0;
 }
 
-.highlights { background: orange; }
+.highlights {
+    background: orange;
+}

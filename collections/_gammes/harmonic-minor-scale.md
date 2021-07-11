@@ -16,8 +16,8 @@ La tièrce du V est la sensible (b7) du I et donc entraine sa résolution.
 
 | Degré                             | I      | II      | III      | IV     | V         | VI     | VII     |
 |-----------------------------------|--------|---------|----------|--------|-----------|--------|---------|
-|                                   | mineur | diminué | augmenté | mineur | dominante | Majeur | diminué |
-| Différence avec la gamme mineure  |        | X       | X        |        |           |        | x       |
+|                                   | mineur | diminué | augmenté | mineur | Majeur    | Majeur | diminué |
+| Différence avec la gamme mineure  |        | X       | X        |        | X         |        | x       |
 
 Ces 3 accords différencient cette gamme de la gamme mineure naturelle car contient la M7 de la tonalité.
 

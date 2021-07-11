@@ -62,6 +62,8 @@ flowchart LR
     classDef someclass fill:#f96,width:45px, text-align:center;
 </div>
 
+Quelques exemples de suite d'accords:
+
 * I IV “BACK TO BASICS”
 * V IV I “LIVIN’ IN THE 60’S”
 * I vi ii V “THE WANDERER”
@@ -71,3 +73,8 @@ flowchart LR
 * I iii ii V “MAY EXPERIENCE NOSTALGIA”
 * I ii V “THE BIG MAC”
 * ii V I vi “SONIC SERENADE”
+
+Pour aller plus loin:
+
+* La ♭VII peut servir de pont (backdoor) vers la relative mineure (modulation) ou bien être une alternative pour le retour vers la tonique comme peut être le V (https://en.wikipedia.org/wiki/Backdoor_progression). On a donc rajouté un accord dans la gamme majeure. Souvent le ♭VII est précédé d'un mineur iv (le mouvement de iv à ♭VII implique une relation ii V.)
+* Le IV peut devenir mineur
