@@ -25,7 +25,7 @@ Avec un peu de logique, nous pouvons déduire que nous avons 3 accords possédan
 ![Accord diminué position 3]({{ site.baseurl }}/assets/images/full-diminished/full-diminished3.png "Accord diminué position 3")
 ![Accord diminué position 2]({{ site.baseurl }}/assets/images/full-diminished/full-diminished2.png "Accord diminué position 2")
 
-## Utilisation
+### Utilisation
 
 L'accord diminué est utilisé comme accord de passage entre 2 accords séparés de 1 ton.  
 
@@ -55,7 +55,7 @@ Sur un accord mineur avec une cadence parfaite, du fait de cette dominante (V7- 
 
 ![Accord demi-diminué]({{ site.baseurl }}/assets/images/semi-diminished/semi-diminished1.png "Accord demi-diminué")
 
-L'accord demi-diminué et diminué peuvent remplacer le ii et le iii dans une suite d'accord.
+L'accord demi-diminué peut remplacer le ii et le iii dans une suite d'accord.
 
 ex:
 
