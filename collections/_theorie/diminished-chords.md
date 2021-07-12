@@ -17,7 +17,7 @@ Les 4 notes qui le constituent sont séparées par une tierce mineure, ce qui en
 ### Les différentes positions
 
 ![Accord diminué position 1]({{ site.baseurl }}/assets/images/full-diminished/full-diminished1.png "Accord diminué position 1")
-![Accord diminué position 3]({{ site.baseurl }}/assets/images/full-diminished/ull-diminished3.png "Accord diminué position 3")
+![Accord diminué position 3]({{ site.baseurl }}/assets/images/full-diminished/full-diminished3.png "Accord diminué position 3")
 ![Accord diminué position 2]({{ site.baseurl }}/assets/images/full-diminished/full-diminished2.png "Accord diminué position 2")
 
 ## Accord Demi-Diminué (m7♭5 ou Ø)
