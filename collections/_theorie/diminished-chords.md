@@ -51,31 +51,6 @@ L'accord diminué de substitution est sur le 7ème degré en majeur et sur le 2�
 
 Sur un accord mineur avec une cadence parfaite, du fait de cette dominante (V7- i), nous sommes dans une gamme mineure harmonique. Si nous remplaçons cette dominante par un accord diminué sur le 2ème degré, nous pouvons constater que nous jouons toujours cette dominante avec une 2nde mineur en plus.
 
-## Accord Demi-Diminué (m7♭5 ou Ø)
-
-![Accord demi-diminué]({{ site.baseurl }}/assets/images/semi-diminished/semi-diminished1.png "Accord demi-diminué")
-
-L'accord demi-diminué peut remplacer le ii et le iii dans une suite d'accord.
-
-ex:
-
-| I  |   ii  |  V | I |
-|----|-------|----|---|
-| C  | Dm7♭5 | G7 | C |
-
-ex:
-
-|   I   |  ii |  iii  | VI | ii  | V  |   I   |
-|-------|-----|-------|----|-----|----|-------|
-| Cmaj7 | Dm7 | Em7♭5 | A7 | Dm7 | G7 | Cmaj7 |
-
-On peut aussi étendre un ii - V - I:
-
-|  ii |  V |  iii  |   VI  | ii  | V  |   I   |
-|-----|----|-------|-------|-----|----|-------|
-| Dm7 | G7 | Em7♭5 | Aaug7 | Dm7 | G7 | Cmaj7 |
-
-
 ## Les arpèges diminués
 
 Ils font entendre un accord de 7b9, ces notes sont M3, M5, ♭7, ♭9. Pour un accord de A: D♭, E, G, B♭.  
