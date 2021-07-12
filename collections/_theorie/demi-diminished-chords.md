@@ -13,13 +13,9 @@ order_number: 5
 
 L'accord demi-diminué peut remplacer le ii et le iii dans une suite d'accord.
 
-ex:
-
 | I  |   ii  |  V | I |
 |----|-------|----|---|
 | C  | Dm7♭5 | G7 | C |
-
-ex:
 
 |   I   |  ii |  iii  | VI | ii  | V  |   I   |
 |-------|-----|-------|----|-----|----|-------|
