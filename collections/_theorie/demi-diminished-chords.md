@@ -11,7 +11,7 @@ order_number: 5
 
 ![Accord demi-diminué]({{ site.baseurl }}/assets/images/semi-diminished/semi-diminished1.png "Accord demi-diminué")
 
-L'accord demi-diminué peut remplacer le ii et le iii dans une suite d'accord.
+L'accord demi-diminué peut remplacer le ii et le iii dans une suite d'accord.  
 
 | I  |   ii  |  V | I |
 |----|-------|----|---|
@@ -26,3 +26,6 @@ On peut aussi étendre un ii - V - I:
 |  ii |  V |  iii  |   VI  | ii  | V  |   I   |
 |-----|----|-------|-------|-----|----|-------|
 | Dm7 | G7 | Em7♭5 | Aaug7 | Dm7 | G7 | Cmaj7 |
+
+
+Sur une tonalité majeure, cet accord demi-diminué en ii est en fait un renversement du iv 6 (accord d'emprunt de la relative avec une couleur 6).

@@ -31,7 +31,7 @@ Sur le iii:
 C - Em devient E♭
 
 Sur le ii:  
-C - D°
+C - D° ou C - D
 
 Sur le vii par une 7ème de dominante:  
 C - B♭7

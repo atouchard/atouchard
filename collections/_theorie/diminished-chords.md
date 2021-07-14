@@ -46,8 +46,8 @@ Du fait de la symétrie, l'accord diminué entre le I et ii est le même que ent
 * Ddim7 = Fdim7 = A♭dim7 = C♭dim7
 * Edim7 = Gdim7 = B♭dim7 = D♭dim7
 
-L'accord diminué peut être une subsitution du degré V (la dominante) dans une cadence parfaite.  
-L'accord diminué de substitution est sur le 7ème degré en majeur et sur le 2ème en mineur, nous remplaçons donc l'accord demi-diminué.
+L'accord diminué peut être une subsitution du degré V (la dominante) dans une cadence parfaite
+L'accord diminué de substitution est sur le 7ème degré en majeur (ex: ii - vii - I) et sur le 2ème en mineur, nous remplaçons donc l'accord demi-diminué.
 
 Sur un accord mineur avec une cadence parfaite, du fait de cette dominante (V7- i), nous sommes dans une gamme mineure harmonique. Si nous remplaçons cette dominante par un accord diminué sur le 2ème degré, nous pouvons constater que nous jouons toujours cette dominante avec une 2nde mineur en plus.
 
