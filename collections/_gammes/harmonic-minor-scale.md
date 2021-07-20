@@ -22,7 +22,7 @@ La tièrce du V est la sensible (b7) du I et donc entraine sa résolution.
 Ces 3 accords différencient cette gamme de la gamme mineure naturelle car contient la M7 de la tonalité.
 
 L'accord mineur Majeur 7 peut être substitué au I, il n'est présent que dans cette gamme.  
-Les [arpèges diminuées]({{ site.baseurl }}/diminished-scale) du II et VII peuvent être utilisés.
+Les [arpèges diminuées]({{ site.baseurl }}/gammes/diminished-scale) du II et VII peuvent être utilisés.
 
 Quand utiliser la gamme mineure harmonique ?
 
