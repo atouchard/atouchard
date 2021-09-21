@@ -43,11 +43,13 @@ Les dièses sont en position 2, 3, 5, 6 et 7.
 
 ## Ordre des Bémols
 
-La règle du +7:
-Si G a un #, G♭ a 6 bemols
-Si D a deux #, D♭ a 5 bemols
-Si A a trois #, A♭ a 4 bemols
-Si E a quatre #, E♭ a 3 bemols
+B, E, A, D, G, C, F (voir cycle des quartes)
+
+La règle du +7:  
+Si G a un #, G♭ a 6 bemols  
+Si D a deux #, D♭ a 5 bemols  
+Si A a trois #, A♭ a 4 bemols  
+Si E a quatre #, E♭ a 3 bemols  
 Si ♭ a cinq #, B♭ a 2 bemols
 
 La F n'a pas de bemols

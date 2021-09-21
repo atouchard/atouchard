@@ -47,9 +47,9 @@ Ces accords peuvent également être vus comme la superposition de deux tierces 
 
 Un exemple d'enchainement d'accords utilisant l'ensemble des degrés de la gamme.
 
-| CM7 | FM7 | Bm7b5 | Em7 | Am7 | Dm7 |  G7 | CM7  
-------|-----|-------|-----|-----|-----|-----|------
 |  I  | IV  |  VII  | III | VI  | II  |  V  | I
+------|-----|-------|-----|-----|-----|-----|------
+| CM7 | FM7 | Bm7b5 | Em7 | Am7 | Dm7 |  G7 | CM7  
 
 Chaque accord de la gamme a une fonction et une sensibilité, cela va se traduire par les progressions d'accord et notamment les [cadences]({{ site.baseurl }}/theorie/cadences).
 
