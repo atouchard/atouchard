@@ -27,5 +27,4 @@ On peut aussi étendre un ii - V - I:
 |-----|----|-------|-------|-----|----|-------|
 | Dm7 | G7 | Em7♭5 | Aaug7 | Dm7 | G7 | Cmaj7 |
 
-
 Sur une tonalité majeure, cet accord demi-diminué en ii est en fait un renversement du iv 6 (accord d'emprunt de la relative avec une couleur 6).

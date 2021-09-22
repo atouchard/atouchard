@@ -12,9 +12,11 @@ Les accords d'emprunts proviennent des tons voisins.
 
 Prenons l'exemple d'une gamme majeure de C, nous pouvons emprunter les accords de sa gamme mineure Cm.
 
-Gamme Majeure | C  | Dm | Em | F  | G  | Am | B° |
---------------|----|----|----|----|----|----|----|
-Gamme Mineure | Cm | D° | E♭ | Fm | Gm | A♭ | B♭ |
+              | I  | II | III | IV | V  | VI | VII |
+--------------|----|----|-----|----|----|----|-----|
+Gamme Majeure | C  | Dm | Em  | F  | G  | Am | B°  |
+--------------|----|----|-----|----|----|----|-----|
+Gamme Mineure | Cm | D° | E♭  | Fm | Gm | A♭ | B♭  |
 
 
 Sur le IV, par exemple, pour un I - IV:  
