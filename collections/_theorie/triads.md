@@ -7,7 +7,6 @@ tags: intermediaire accords theorie
 order_number: 2
 ---
 
-
 |             |             |          |
 |-------------|-------------|----------|
 | Do Majeur   | Do Mi Sol   | C-E-G    |
@@ -22,7 +21,6 @@ order_number: 2
 | Ré Majeur   | Ré Fa# La   | D-F#-A   |
 | Si Majeur   | Si Re# Fa#  | B-D#-F#  |
 | Fa Majeur   | Fa La Do    | F-A-C    |
-
 
 Les triades ont deux inversions possibles:
 

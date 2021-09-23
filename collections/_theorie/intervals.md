@@ -15,9 +15,7 @@ Les intervalles justes peuvent être diminuées ou augmentées
 
 Une gamme majeure diatonique ne contient que des intervalles de 1 ton ou 1/2 ton. Une gamme contenant une intervalle de 1 ton et demi n'est pas diatonique.
 
-
 Root - ♭2 - M2 - ♭3 - M3 - P4 - #4/♭5 - P5 - ♭6 - M6 -♭7 - M7
-
 
 ![]({{site.baseurl}}/assets/images/art/87b325c8beb56091050100db000d1ee8.jpg){: .img-25}
 [https://fr.wikipedia.org/wiki/Roman_Haubenstock-Ramati](https://fr.wikipedia.org/wiki/Roman_Haubenstock-Ramati){: .img-src}

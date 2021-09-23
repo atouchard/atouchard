@@ -14,7 +14,6 @@ Pour faire sonner Dorien, jouer les triades du degré 3 et 4.
 Pour faire sonner Lydien, jouer les triades du degré 1 et 2.  
 Pour faire sonner Myxolydien, jouer les triades du degré 1 et 7.
 
-
 Sur un A7, nous pouvons nous dire que c'est le 5ème degré de D.  
 Jouons les triades paires de D sur un A7, par exemple GMaj et AMaj, ou bien Emin et F#min.
 
