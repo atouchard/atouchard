@@ -47,6 +47,8 @@ Les accords sont constitués de tierce empilés 1 - 3 - 5 - 7 et si on continue,
 
 ## Les chansons pense-bêtes
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PhDIm_2qS5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Root ascendante**
 
 * Somewhere over the rainbow
