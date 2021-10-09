@@ -9,7 +9,7 @@ order_number: 2
 
 Contrairement à l'harmonie tonale, l'harmonie modale n'a pas besoin de résolution. Les accords semblent flotter autour de la tonalité, il y a une sorte d'égalité entre les accords. Les degrés ne s'attirent pas comme dans une gamme majeure.  
 
-Dans une harmonie modale, il faut faire attention de ne pas jouer les tritons qui sont présents dans la dominante et à la m7♭5. 
+Dans une harmonie modale, il faut faire attention à ne pas jouer les tritons qui sont présents dans la dominante et la m7♭5.  
 Ces accords contiennent un triton qui ramène à une résolution vers le 1er degré de la gamme majeure (c'est la cadence V7-I, la m7♭5 peut substituer la V7).
 
 Choisir préférentiellement les accords avec la note caractéristique du mode.

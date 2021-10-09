@@ -25,6 +25,8 @@ Avec un peu de logique, nous pouvons déduire que nous avons 3 accords possédan
 ![Accord diminué position 3]({{ site.baseurl }}/assets/images/full-diminished/full-diminished3.png "Accord diminué position 3")
 ![Accord diminué position 2]({{ site.baseurl }}/assets/images/full-diminished/full-diminished2.png "Accord diminué position 2")
 
+Ces accords se transposent toutes les tierces mineures sur le manche.
+
 ### Utilisation
 
 L'accord diminué est utilisé comme accord de passage entre 2 accords séparés de 1 ton.  

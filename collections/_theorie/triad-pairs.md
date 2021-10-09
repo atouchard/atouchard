@@ -11,9 +11,9 @@ order_number: 5
 
 **On prend toujours les triades des degrés IV et V de la tonalité dont le mode est issu.**
 
-Par exemple, pour faire sonner A dorien, qui est issu du mode de G majeur, nous allons utiliser ces degrés IV (Cmajeur) et V (Dmajeur) avec une basse A.  
-Pour faire sonner A phrygien, qui est issu du mode de F majeur, nous allons utiliser ces degrés IV (Bbmajeur) et V (Cmajeur) avec une basse A.  
-Pour faire sonner A lydien, qui est issu du mode de E majeur, nous allons utiliser ces degrés IV (Amajeur) et V (Bmajeur) avec une basse A.  
+Par exemple, pour faire sonner A dorien, qui est issu du mode de G majeur, nous allons utiliser ces degrés IV (C majeur) et V (D majeur) avec une basse A.  
+Pour faire sonner A phrygien, qui est issu du mode de F majeur, nous allons utiliser ces degrés IV (Bb majeur) et V (C majeur) avec une basse A.  
+Pour faire sonner A lydien, qui est issu du mode de E majeur, nous allons utiliser ces degrés IV (A majeur) et V (B majeur) avec une basse A.  
 
 Pour faire sonner Ionien, jouer les triades du degré 4 et 5.  
 Pour faire sonner Dorien, jouer les triades du degré 3 et 4.  
