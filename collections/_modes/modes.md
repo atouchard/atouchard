@@ -2,7 +2,7 @@
 layout: page
 title: Les Modes
 date: 2020-12-20 10:30
-categories: theorie
+categories: mode
 tags: intermediaire mode
 order_number: 1
 ---

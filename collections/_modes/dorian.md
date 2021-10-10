@@ -2,7 +2,7 @@
 layout: page
 title: Le Mode Dorien
 date: 2020-12-20 10:30
-categories: theorie
+categories: mode
 tags: intermediaire mode
 order_number: 2
 ---
@@ -10,6 +10,8 @@ order_number: 2
 Utilisé en rock, blues, jazz, ...
 
 Le mode Dorien se base sur la gamme mineure naturelle qui contient la b6. Le mode Dorien utilise les mêmes notes sauf la b6 qui devient une M6.
+
+La suite d'accord la plus connu est le Dorien vamp: i - IV
 
 ![Notes du Mode Dorien A]({{ site.baseurl }}/assets/images/dorian/dorian1.png "Notes du Mode Dorien A")
 
@@ -26,9 +28,10 @@ Exemple de suite d'accords:
 |-----|----|-----|-----|
 | Am7 | D7 | Bm7 | Em7 |
 
-Comme pour tous les modes, la gamme pentatonique ne contient pas la note caractéristique du mode dorien (M6), ici le f#.
+Comme pour tous les modes, la gamme pentatonique ne contient pas la note caractéristique du mode dorien (M6), ici le F#.
 
-On peut jouer la gamme pentatonique du 2nd degré (Bm) pour faire entendre cette note caractéristique. Cette gamme pentatonique contient les notes suivantes:  
+On peut jouer la gamme pentatonique du 2nd degré (Bm) pour faire entendre cette note caractéristique.  
+Cette gamme pentatonique contient les notes suivantes:  
 b (II), d (IV), e (V), f# (VI), a (I) (Mais il manque la tierce !)
 
 ![Pentatonique du ii]({{ site.baseurl }}/assets/images/dorian/dorian2.png "Pentatonique du ii")

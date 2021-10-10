@@ -2,7 +2,7 @@
 layout: page
 title: La Gamme Mineure Pentatonique
 date: 2020-11-19 10:30
-categories: theorie
+categories: scale
 tags: intermediaire theorie gamme
 order_number: 7
 ---

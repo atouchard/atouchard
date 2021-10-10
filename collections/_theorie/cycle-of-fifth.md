@@ -25,5 +25,3 @@ E7: E-**G#**-B-D
 La 7eme du D7 avec 1/2 ton devient la tierce du A7
 
 La sixte est l'inverse de la tierce ! C# est la tierce de A et A est la sixte de C#
-
-Dorien vamp: Dm7 to G7
