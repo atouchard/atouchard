@@ -7,4 +7,4 @@ tags: intermediaire mode
 order_number: 2
 ---
 
-Le mode mixolydien est dérivé de la gamme majeure, la M7 est remplacé par la b7.
+Le mode mixolydien est dérivé de la gamme majeure, la M7 est remplacée par la b7.

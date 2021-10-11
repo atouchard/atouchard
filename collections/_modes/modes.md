@@ -23,3 +23,10 @@ order_number: 1
 
 Si on joue les triades des accords caractéristiques du mode, on fait sonner la couleur du mode.  
 Par exemple, pour le dorien, jouer la triade du I et IV
+
+## Progression d'accords modal
+
+Dans les progressions d'accord modal, les règles tonales (majeure/mineure) ne s'appliquent pas vraiment.  
+On ne parle pas de progression à vraiment dire mais plutôt de séquencement, les accords flottent autour de la tonique et de sa note caractéristique.
+
+Les accords caractéristiques, les plus utilisés, gravitent autour de la tonique.
