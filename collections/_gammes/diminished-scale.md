@@ -24,4 +24,4 @@ En mode majeur (ionien), dans notre exemple C, G# restera notre note de sortie.
 
 ## Dominant diminished scale ou half step - whole step (1/2 ton - ton)
 
-On peut la jouer sur les accords de dominante.
+Nous pouvons jouer cette gamme sur les accords de dominante.
