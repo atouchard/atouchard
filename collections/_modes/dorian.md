@@ -15,8 +15,9 @@ La suite d'accord la plus connue est le fameux Dorien vamp (i - IV) présente da
 
 ![Notes du Mode Dorien A]({{ site.baseurl }}/assets/images/dorian/dorian1.png "Notes du Mode Dorien A")
 
-| Dorien  | Am7 | **Bm7**{:.highlights}   | Cmaj7 | **D7**{:.highlights}  | Em7 | **F#m7b5**{:.highlights} | Gmaj7 |
+| I       | II  | III                     | III   | IV                    | V   | VI                       | VII   |
 |---------|-----|-------------------------|-------|-----------------------|-----|--------------------------|-------|
+| Dorien  | Am7 | **Bm7**{:.highlights}   | Cmaj7 | **D7**{:.highlights}  | Em7 | **F#m7b5**{:.highlights} | Gmaj7 |
 | Aeolien | Am7 | Bm7b5                   | Cmaj7 | Dm7                   | Em7 | Fmaj7                    | G7    |
 
 Le 4ème degré (D7) et le second degré (Bm7) sont les accords qui le diffèrencie principalement du mode mineur naturel.
