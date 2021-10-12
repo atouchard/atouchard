@@ -35,9 +35,9 @@ Seuls les 2 premiers accords sont majeurs, les autres sont mineurs ou diminués.
 
 Le I et II sont souvent utilisés ainsi que le IV et le VII.
 
-Cette gamme va très bien avec les accords de [dominante secondaire](../_theorie/secondary-dominant.md).
+Cette gamme va très bien avec les accords de [dominante secondaire]({{ site.baseurl }}/theorie/secondary-dominant).
 
-Dans la suite d'accords çi dessous, G#7 est la seconde dominante de C#m:
+Dans la suite d'accords çi-dessous, G#7 est la seconde dominante de C#m:
 
 | Emaj7   | G#7                  | C#m     | Amaj7   |
 |---------|----------------------|---------|---------|
