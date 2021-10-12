@@ -19,13 +19,11 @@ La 2nde augmentée entre le 2ème et le 3ème degré donne cette couleur mystiqu
 
 Elle découle du 5ème mode de la gamme mineure harmonique.
 
-
 ![gamme phrygienne]({{ site.baseurl }}/assets/images/phrygian-dominant/phrygian-dominant2.png "gamme phrygienne")
 
 ![gamme phrygienne]({{ site.baseurl }}/assets/images/phrygian-dominant/phrygian-dominant3.png "gamme phrygienne")
 
 ![gamme phrygienne]({{ site.baseurl }}/assets/images/phrygian-dominant/phrygian-dominant4.png "gamme phrygienne")
-
 
 Accords du mode
 
@@ -33,17 +31,19 @@ Accords du mode
 |---|----|-------|----|-------|------|-----|
 | E |  F | G#dim | Am | Bdim  | Caug |  Dm |
 
-Seul les 2 premiers accords sont majeurs, les autres sont mineurs ou diminués.
+Seuls les 2 premiers accords sont majeurs, les autres sont mineurs ou diminués.
 
 Le I et II sont souvent utilisés ainsi que le IV et le VII.
 
-Cette gamme va très bien avec les accords de seconde de dominante (G#7 est la seconde dominante de C#m):
+Cette gamme va très bien avec les accords de [dominante secondaire](../_theorie/secondary-dominant.md).
+
+Dans la suite d'accords çi dessous, G#7 est la seconde dominante de C#m:
 
 | Emaj7   | G#7                  | C#m     | Amaj7   |
 |---------|----------------------|---------|---------|
 | Emajeur | G# phrygien dominant | Emajeur | Emajeur |
 
-En majeur, quand la VI est majeur (dominant 7), on peut jouer la gamme phrygien dominante sur le VI (ici A7 est la seconde de domiante de Dm):
+En majeur, quand la VI est majeur (dominant 7), on peut jouer la gamme phrygienne dominante sur le VI (ici A7 est la dominante secondaire de Dm):
 
 C > A7 > Dm > G7
 
