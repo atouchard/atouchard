@@ -2,7 +2,7 @@
 layout: page
 title: La Gamme Harmonique Mineure
 date: 2020-12-20 10:30
-categories: scale
+categories: scales
 tags: intermediaire gamme
 order_number: 2
 ---

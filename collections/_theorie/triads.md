@@ -24,8 +24,8 @@ order_number: 2
 
 Les triades ont deux inversions possibles:
 
-Première inversion: la tierce de l'accord est la note la plus basse.
-Deuxième inversion: la cinquième de l'accord est la note la plus basse.
+* Première inversion: la tierce de l'accord est la note la plus basse.
+* Deuxième inversion: la quinte de l'accord est la note la plus basse.
 
 CMaj7 = Em/C
 
@@ -41,8 +41,8 @@ Am7 = C/A
 
 G7 = Bdim/G
 
-IV peut être remplacé par le iim7
-iii peut être remplacé par le IMaj7
+IV peut être remplacé par le iim7.  
+iii peut être remplacé par le IMaj7.  
 vii peut être remplacé par le V7
 
 Major (1-3-5), minor (1-♭3-5), diminished (1-♭3-♭5) and augmented (1-3-#5).

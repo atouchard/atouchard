@@ -2,7 +2,7 @@
 layout: page
 title: La Gamme Pentatonique Dominante 
 date: 2020-11-19 10:30
-categories: scale
+categories: scales
 tags: intermediaire theorie
 order_number: 6
 ---

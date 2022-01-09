@@ -1,8 +1,8 @@
 ---
 layout: landing
-title: Gammes
-permalink: /gammes
-collection: gammes
+title: scales
+permalink: /scales
+collection: scales
 ---
 
 # Gammes

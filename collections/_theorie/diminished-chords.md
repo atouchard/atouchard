@@ -30,7 +30,7 @@ Ces accords se transposent toutes les tierces mineures sur le manche.
 ### Utilisation
 
 L'accord diminué est utilisé comme accord de passage entre 2 accords séparés de 1 ton.  
-Cet accord de passage est souvent positionné entre le I et ii, et entre le IV et V.
+Cet accord de passage est souvent positionné entre le I et ii et entre le IV et V.
 
 | I |        | ii |
 |---|--------|----|

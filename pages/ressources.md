@@ -23,13 +23,13 @@ permalink: /ressources
 * [Learn Guitar Now](https://www.learningguitarnow.com/)
 * [GuitarLessons](https://www.guitarlessons.com/)
 * [JustinGuitar](https://www.justinguitar.com/)
-* [Mr FastFinger](http://mrfastfinger.net/lessons/)
 
 # Paid lessons
 
 * [JamPlay](http://jamplay.com/)
 * [TrueFire](https://truefire.com/)
 * [LickLibrary](https://www.licklibrary.com/)
+* [JTC Guitar](https://jtcguitar.com/)
 
 # Individual
 
