@@ -28,9 +28,9 @@ collections:
   modes:
       output: true
       permalink: /modes/:path/
-  gammes:
+  scales:
       output: true
-      permalink: /gammes/:path/
+      permalink: /scales/:path/
 
 defaults:
   - scope:
@@ -47,7 +47,7 @@ excerpt_separator: <!--more-->
 nav_pages:
   - pages/posts.md
   - pages/theorie.md
-  - pages/gammes.md
+  - pages/scales.md
   - pages/modes.md
   - pages/rythme.md
   - pages/exercices.md
