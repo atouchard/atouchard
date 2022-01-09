@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: scales
+title: Gammes
 permalink: /scales
 collection: scales
 ---
